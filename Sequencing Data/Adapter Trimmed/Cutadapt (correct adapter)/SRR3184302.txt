@@ -1,0 +1,160 @@
+This is cutadapt 1.16 with Python 3.6.6
+Command line parameters: -j 6 -a AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC -A AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT --output=out1.fq.gz --paired-output=out2.fq.gz --error-rate=0.1 --times=1 --overlap=3 --max-n=0.05 --pair-filter=any SRR3184302_1.fq.gz SRR3184302_2.fq.gz
+Running on 6 cores
+Trimming 2 adapters with at most 10.0% errors in paired-end mode ...
+Finished in 1714.43 s (29 us/read; 2.06 M reads/minute).
+
+=== Summary ===
+
+Total read pairs processed:         58,770,657
+  Read 1 with adapter:                 452,889 (0.8%)
+  Read 2 with adapter:                 735,149 (1.3%)
+Pairs with too many N:                 558,748 (1.0%)
+Pairs written (passing filters):    58,211,909 (99.0%)
+
+Total basepairs processed: 11,600,820,793 bp
+  Read 1: 5,786,831,398 bp
+  Read 2: 5,813,989,395 bp
+Total written (filtered):  11,515,477,031 bp (99.3%)
+  Read 1: 5,759,085,355 bp
+  Read 2: 5,756,391,676 bp
+
+=== First read: Adapter 1 ===
+
+Sequence: AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC; Type: regular 3'; Length: 34; Trimmed: 452889 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-19 bp: 1; 20-29 bp: 2; 30-34 bp: 3
+
+Bases preceding removed adapters:
+  A: 27.3%
+  C: 27.9%
+  G: 28.5%
+  T: 16.3%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	377755	918291.5	0	377755
+4	50724	229572.9	0	50724
+5	20221	57393.2	0	20221
+6	1658	14348.3	0	1658
+7	44	3587.1	0	44
+8	6	896.8	0	6
+9	80	224.2	0	5 75
+10	290	56.0	1	7 283
+11	475	14.0	1	34 441
+12	101	3.5	1	3 98
+13	50	0.9	1	9 41
+14	514	0.2	1	0 514
+15	27	0.1	1	0 27
+16	331	0.0	1	6 325
+17	28	0.0	1	3 25
+18	212	0.0	1	0 212
+19	119	0.0	1	0 119
+20	17	0.0	2	0 0 17
+21	58	0.0	2	0 0 58
+22	9	0.0	2	0 0 9
+23	22	0.0	2	0 0 22
+24	50	0.0	2	0 0 50
+25	17	0.0	2	0 1 16
+26	18	0.0	2	0 0 18
+27	10	0.0	2	0 0 10
+28	7	0.0	2	0 0 7
+29	7	0.0	2	0 0 7
+30	7	0.0	3	0 0 1 6
+31	26	0.0	3	0 0 0 26
+32	2	0.0	3	0 0 0 2
+33	1	0.0	3	0 0 0 1
+34	1	0.0	3	0 0 0 1
+35	2	0.0	3	0 0 1 1
+
+=== Second read: Adapter 2 ===
+
+Sequence: AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT; Type: regular 3'; Length: 58; Trimmed: 735149 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-19 bp: 1; 20-29 bp: 2; 30-39 bp: 3; 40-49 bp: 4; 50-58 bp: 5
+
+Bases preceding removed adapters:
+  A: 39.2%
+  C: 22.6%
+  G: 28.0%
+  T: 10.2%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	645878	918291.5	0	645878
+4	53351	229572.9	0	53351
+5	24706	57393.2	0	24706
+6	7937	14348.3	0	7937
+7	62	3587.1	0	62
+8	7	896.8	0	7
+9	315	224.2	0	10 305
+10	287	56.0	1	5 282
+11	667	14.0	1	20 647
+12	204	3.5	1	11 193
+13	100	0.9	1	6 94
+14	151	0.2	1	8 143
+15	167	0.1	1	1 166
+16	132	0.0	1	2 130
+17	222	0.0	1	0 222
+18	151	0.0	1	0 151
+19	86	0.0	1	0 86
+20	4	0.0	2	0 1 3
+21	46	0.0	2	0 0 46
+22	6	0.0	2	1 0 5
+23	8	0.0	2	0 0 8
+24	37	0.0	2	0 0 37
+25	34	0.0	2	0 1 33
+26	40	0.0	2	0 1 39
+27	66	0.0	2	0 0 66
+28	10	0.0	2	0 0 10
+29	3	0.0	2	0 0 2 1
+30	29	0.0	3	0 0 3 26
+31	9	0.0	3	0 0 0 9
+32	17	0.0	3	0 0 0 17
+33	5	0.0	3	0 0 0 5
+34	1	0.0	3	0 0 0 1
+35	1	0.0	3	0 0 0 1
+36	1	0.0	3	0 0 0 0 1
+37	1	0.0	3	0 0 0 0 1
+38	1	0.0	3	0 0 0 0 1
+39	4	0.0	3	0 0 0 0 4
+40	47	0.0	4	0 0 0 0 47
+41	42	0.0	4	0 0 0 0 42
+42	43	0.0	4	0 0 0 0 43
+43	10	0.0	4	0 0 0 0 10
+44	19	0.0	4	0 0 0 0 19
+45	19	0.0	4	0 0 0 0 19
+46	5	0.0	4	0 0 0 0 5
+47	11	0.0	4	0 0 0 0 11
+48	3	0.0	4	0 0 0 0 3
+49	5	0.0	4	0 0 0 0 4 1
+50	15	0.0	5	0 0 0 0 7 8
+51	17	0.0	5	0 0 0 0 4 13
+52	17	0.0	5	0 0 0 0 3 14
+54	7	0.0	5	0 0 0 0 2 5
+55	8	0.0	5	0 0 0 0 1 7
+56	1	0.0	5	0 0 0 0 0 1
+57	5	0.0	5	0 0 0 0 2 3
+58	5	0.0	5	0 0 0 0 2 3
+59	3	0.0	5	0 0 0 0 1 2
+60	4	0.0	5	0 0 0 0 3 1
+61	1	0.0	5	0 0 0 0 1
+62	3	0.0	5	0 0 0 0 0 3
+63	2	0.0	5	0 0 0 0 1 1
+64	1	0.0	5	0 0 0 0 0 1
+65	4	0.0	5	0 0 0 0 2 2
+66	2	0.0	5	0 0 0 0 1 1
+67	1	0.0	5	0 0 0 0 0 1
+68	1	0.0	5	0 0 0 0 1
+76	1	0.0	5	0 0 0 0 0 1
+88	1	0.0	5	0 0 0 0 1
+90	2	0.0	5	0 0 0 0 0 2
+97	5	0.0	5	0 0 0 0 1 4
+98	14	0.0	5	0 0 0 0 4 10
+99	33	0.0	5	0 0 0 0 8 25
+100	46	0.0	5	0 0 0 0 10 36
+

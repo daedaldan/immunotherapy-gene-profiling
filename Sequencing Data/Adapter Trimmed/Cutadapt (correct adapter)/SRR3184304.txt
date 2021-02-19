@@ -1,0 +1,153 @@
+This is cutadapt 1.16 with Python 3.6.6
+Command line parameters: -j 6 -a AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC -A AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT --output=out1.fq.gz --paired-output=out2.fq.gz --error-rate=0.1 --times=1 --overlap=3 --max-n=0.05 --pair-filter=any SRR3184304_1.fq.gz SRR3184304_2.fq.gz
+Running on 6 cores
+Trimming 2 adapters with at most 10.0% errors in paired-end mode ...
+Finished in 3001.84 s (49 us/read; 1.23 M reads/minute).
+
+=== Summary ===
+
+Total read pairs processed:         61,696,400
+  Read 1 with adapter:                 565,428 (0.9%)
+  Read 2 with adapter:                 862,781 (1.4%)
+Pairs with too many N:                 207,662 (0.3%)
+Pairs written (passing filters):    61,488,738 (99.7%)
+
+Total basepairs processed: 12,196,118,694 bp
+  Read 1: 6,095,949,597 bp
+  Read 2: 6,100,169,097 bp
+Total written (filtered):  12,156,674,151 bp (99.7%)
+  Read 1: 6,079,729,812 bp
+  Read 2: 6,076,944,339 bp
+
+=== First read: Adapter 1 ===
+
+Sequence: AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC; Type: regular 3'; Length: 34; Trimmed: 565428 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-19 bp: 1; 20-29 bp: 2; 30-34 bp: 3
+
+Bases preceding removed adapters:
+  A: 28.7%
+  C: 29.1%
+  G: 26.1%
+  T: 16.0%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	466506	964006.2	0	466506
+4	69084	241001.6	0	69084
+5	25331	60250.4	0	25331
+6	2192	15062.6	0	2192
+7	52	3765.6	0	52
+8	4	941.4	0	4
+9	97	235.4	0	1 96
+10	234	58.8	1	4 230
+11	415	14.7	1	34 381
+12	74	3.7	1	2 72
+13	28	0.9	1	7 21
+14	440	0.2	1	0 440
+15	22	0.1	1	0 22
+16	359	0.0	1	2 357
+17	28	0.0	1	3 25
+18	196	0.0	1	0 196
+19	138	0.0	1	0 138
+20	32	0.0	2	0 0 32
+21	55	0.0	2	0 0 55
+22	14	0.0	2	0 1 13
+23	14	0.0	2	0 0 14
+24	52	0.0	2	0 0 52
+25	8	0.0	2	0 0 8
+26	15	0.0	2	0 1 14
+27	9	0.0	2	0 0 9
+28	7	0.0	2	0 0 7
+29	9	0.0	2	0 0 9
+30	8	0.0	3	0 0 3 5
+31	3	0.0	3	0 0 0 3
+32	2	0.0	3	0 0 0 2
+
+=== Second read: Adapter 2 ===
+
+Sequence: AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT; Type: regular 3'; Length: 58; Trimmed: 862781 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-19 bp: 1; 20-29 bp: 2; 30-39 bp: 3; 40-49 bp: 4; 50-58 bp: 5
+
+Bases preceding removed adapters:
+  A: 38.2%
+  C: 24.1%
+  G: 25.8%
+  T: 11.8%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	752850	964006.2	0	752850
+4	73925	241001.6	0	73925
+5	26820	60250.4	0	26820
+6	6064	15062.6	0	6064
+7	119	3765.6	0	119
+8	9	941.4	0	9
+9	379	235.4	0	17 362
+10	287	58.8	1	2 285
+11	648	14.7	1	20 628
+12	173	3.7	1	11 162
+13	96	0.9	1	9 87
+14	164	0.2	1	3 161
+15	178	0.1	1	2 176
+16	147	0.0	1	1 146
+17	202	0.0	1	0 202
+18	137	0.0	1	0 137
+19	114	0.0	1	0 114
+20	3	0.0	2	0 0 3
+21	32	0.0	2	0 0 32
+22	7	0.0	2	0 0 7
+23	4	0.0	2	0 0 4
+24	14	0.0	2	0 0 14
+25	26	0.0	2	0 0 26
+26	29	0.0	2	0 0 29
+27	42	0.0	2	0 0 42
+28	7	0.0	2	0 0 7
+29	6	0.0	2	0 0 3 3
+30	28	0.0	3	0 0 1 27
+31	4	0.0	3	0 0 1 3
+32	12	0.0	3	0 0 0 12
+33	3	0.0	3	0 0 0 3
+34	1	0.0	3	0 0 0 1
+39	5	0.0	3	0 0 0 0 5
+40	35	0.0	4	0 0 0 0 35
+41	36	0.0	4	0 0 0 0 36
+42	34	0.0	4	0 0 0 0 34
+43	7	0.0	4	0 0 0 0 7
+44	18	0.0	4	0 0 0 0 18
+45	7	0.0	4	0 0 0 0 7
+46	7	0.0	4	0 0 0 0 7
+47	5	0.0	4	0 0 0 0 5
+48	5	0.0	4	0 0 0 0 5
+49	4	0.0	4	0 0 0 0 4
+50	10	0.0	5	0 0 0 0 6 4
+51	6	0.0	5	0 0 0 0 2 4
+52	7	0.0	5	0 0 0 0 2 5
+53	1	0.0	5	0 0 0 0 0 1
+54	6	0.0	5	0 0 0 0 1 5
+55	8	0.0	5	0 0 0 0 5 3
+56	1	0.0	5	0 0 0 0 0 1
+57	5	0.0	5	0 0 0 0 0 5
+58	4	0.0	5	0 0 0 0 2 2
+59	2	0.0	5	0 0 0 0 1 1
+60	2	0.0	5	0 0 0 0 1 1
+61	1	0.0	5	0 0 0 0 1
+62	1	0.0	5	0 0 0 0 0 1
+63	1	0.0	5	0 0 0 0 0 1
+64	3	0.0	5	0 0 0 0 0 3
+65	1	0.0	5	0 0 0 0 1
+67	1	0.0	5	0 0 0 0 0 1
+68	1	0.0	5	0 0 0 0 0 1
+71	1	0.0	5	0 0 0 0 0 1
+72	1	0.0	5	0 0 0 0 0 1
+86	1	0.0	5	0 0 0 0 0 1
+96	1	0.0	5	0 0 0 0 0 1
+98	2	0.0	5	0 0 0 0 1 1
+99	9	0.0	5	0 0 0 0 1 8
+100	12	0.0	5	0 0 0 0 3 9
+

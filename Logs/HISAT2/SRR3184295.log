@@ -1,0 +1,15 @@
+87727770 reads; of these:
+  87727770 (100.00%) were paired; of these:
+    8562846 (9.76%) aligned concordantly 0 times
+    73426075 (83.70%) aligned concordantly exactly 1 time
+    5738849 (6.54%) aligned concordantly >1 times
+    ----
+    8562846 pairs aligned concordantly 0 times; of these:
+      395307 (4.62%) aligned discordantly 1 time
+    ----
+    8167539 pairs aligned 0 times concordantly or discordantly; of these:
+      16335078 mates make up the pairs; of these:
+        9891082 (60.55%) aligned 0 times
+        4940682 (30.25%) aligned exactly 1 time
+        1503314 (9.20%) aligned >1 times
+94.36% overall alignment rate

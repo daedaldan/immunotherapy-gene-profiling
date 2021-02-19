@@ -1,0 +1,21 @@
+This is cutadapt 1.16 with Python 3.6.6
+Command line parameters: -j 6 --output=out1.fq.gz --paired-output=out2.fq.gz --error-rate=0.1 --times=1 --overlap=3 --minimum-length=20 --pair-filter=any SRR3184281.fq.gz SRR3184281.fq.gz
+Running on 6 cores
+Trimming 0 adapters with at most 10.0% errors in paired-end mode ...
+Finished in 2113.14 s (25 us/read; 2.37 M reads/minute).
+
+=== Summary ===
+
+Total read pairs processed:         83,309,526
+  Read 1 with adapter:                       0 (0.0%)
+  Read 2 with adapter:                       0 (0.0%)
+Pairs that were too short:              34,837 (0.0%)
+Pairs written (passing filters):    83,274,689 (100.0%)
+
+Total basepairs processed: 16,621,550,478 bp
+  Read 1: 8,310,775,239 bp
+  Read 2: 8,310,775,239 bp
+Total written (filtered):  16,620,703,260 bp (100.0%)
+  Read 1: 8,310,351,630 bp
+  Read 2: 8,310,351,630 bp
+

@@ -1,0 +1,10 @@
+PASS	Basic Statistics	SRR3184301_2.gz
+PASS	Per base sequence quality	SRR3184301_2.gz
+PASS	Per sequence quality scores	SRR3184301_2.gz
+FAIL	Per base sequence content	SRR3184301_2.gz
+PASS	Per sequence GC content	SRR3184301_2.gz
+PASS	Per base N content	SRR3184301_2.gz
+FAIL	Sequence Length Distribution	SRR3184301_2.gz
+FAIL	Sequence Duplication Levels	SRR3184301_2.gz
+PASS	Overrepresented sequences	SRR3184301_2.gz
+PASS	Adapter Content	SRR3184301_2.gz
