@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FOXC2	forkhead box C2 [Source:HGNC Symbol;Acc:HGNC:3801]	0	0.8063567280769348	0.0947525	Yes	
+row_1	ITGA8	integrin subunit alpha 8 [Source:HGNC Symbol;Acc:HGNC:6144]	42	0.5544496178627014	0.023237497	Yes	
+row_2	DKK3	dickkopf WNT signaling pathway inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:2893]	51	0.5188071131706238	0.05753426	Yes	
+row_3	OGN	osteoglycin [Source:HGNC Symbol;Acc:HGNC:8126]	73	0.48939749598503113	0.045041855	Yes	
+row_4	OMD	osteomodulin [Source:HGNC Symbol;Acc:HGNC:8134]	87	0.4707562327384949	0.057025637	Yes	
+row_5	PDGFD	platelet derived growth factor D [Source:HGNC Symbol;Acc:HGNC:30620]	100	0.45308855175971985	0.07026668	Yes	
+row_6	LAMA2	laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	101	0.45167556405067444	0.12334169	Yes	
+row_7	LAMC3	laminin subunit gamma 3 [Source:HGNC Symbol;Acc:HGNC:6494]	130	0.3939342796802521	0.07629836	Yes	
+row_8	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	135	0.38681912422180176	0.10841896	Yes	
+row_9	LUZP2	leucine zipper protein 2 [Source:HGNC Symbol;Acc:HGNC:23206]	139	0.382810115814209	0.1434018	Yes	
+row_10	SOD3	superoxide dismutase 3 [Source:HGNC Symbol;Acc:HGNC:11181]	151	0.3711445927619934	0.15034719	Yes	
+row_11	LMOD1	leiomodin 1 [Source:HGNC Symbol;Acc:HGNC:6647]	153	0.36962416768074036	0.19044726	Yes	
+row_12	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	160	0.35695356130599976	0.21239176	Yes	
+row_13	AGTR1	angiotensin II receptor type 1 [Source:HGNC Symbol;Acc:HGNC:336]	162	0.3554823100566864	0.25083008	Yes	
+row_14	OLFML1	olfactomedin like 1 [Source:HGNC Symbol;Acc:HGNC:24473]	164	0.3542158305644989	0.28911954	Yes	
+row_15	NPR1	natriuretic peptide receptor 1 [Source:HGNC Symbol;Acc:HGNC:7943]	167	0.34950897097587585	0.3235226	Yes	
+row_16	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	171	0.344868540763855	0.35404706	Yes	
+row_17	MICAL2	microtubule associated monooxygenase, calponin and LIM domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24693]	182	0.32006344199180603	0.3583234	Yes	
+row_18	PODXL	podocalyxin like [Source:HGNC Symbol;Acc:HGNC:9171]	207	0.23536980152130127	0.30598098	No	
+row_19	RPL27	ribosomal protein L27 [Source:HGNC Symbol;Acc:HGNC:10328]	222	-0.13226549327373505	0.27485642	No	
+row_20	VTN	vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	284	-0.4125460386276245	0.12000009	No	

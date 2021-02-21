@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TMEM100	transmembrane protein 100 [Source:HGNC Symbol;Acc:HGNC:25607]	24	0.6185195446014404	0.011584185	Yes	
+row_1	LRRC17	leucine rich repeat containing 17 [Source:HGNC Symbol;Acc:HGNC:16895]	32	0.5859858393669128	0.0741578	Yes	
+row_2	ALDH1L2	aldehyde dehydrogenase 1 family member L2 [Source:HGNC Symbol;Acc:HGNC:26777]	33	0.584394097328186	0.15944992	Yes	
+row_3	WIF1	WNT inhibitory factor 1 [Source:HGNC Symbol;Acc:HGNC:18081]	44	0.548621416091919	0.20673414	Yes	
+row_4	PRDM16-DT	PRDM16 divergent transcript [Source:HGNC Symbol;Acc:HGNC:48664]	72	0.48956185579299927	0.18966092	Yes	
+row_5	OMD	osteomodulin [Source:HGNC Symbol;Acc:HGNC:8134]	87	0.4707562327384949	0.21246599	Yes	
+row_6	PDGFD	platelet derived growth factor D [Source:HGNC Symbol;Acc:HGNC:30620]	100	0.45308855175971985	0.23924986	Yes	
+row_7	LAMA2	laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	101	0.45167556405067444	0.30517173	Yes	
+row_8	SVEP1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:15985]	106	0.4417065382003784	0.3565239	Yes	
+row_9	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	114	0.42596179246902466	0.39574206	Yes	
+row_10	ADGRL3	adhesion G protein-coupled receptor L3 [Source:HGNC Symbol;Acc:HGNC:20974]	149	0.37252533435821533	0.33863658	No	
+row_11	AGTR1	angiotensin II receptor type 1 [Source:HGNC Symbol;Acc:HGNC:336]	162	0.3554823100566864	0.35117483	No	
+row_12	ADGRG2	adhesion G protein-coupled receptor G2 [Source:HGNC Symbol;Acc:HGNC:4516]	188	0.29584112763404846	0.31238553	No	
+row_13	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	225	-0.16644014418125153	0.21864463	No	
+row_14	BEX1	brain expressed X-linked 1 [Source:HGNC Symbol;Acc:HGNC:1036]	239	-0.21824614703655243	0.20787463	No	
+row_15	CYP3A4	cytochrome P450 family 3 subfamily A member 4 [Source:HGNC Symbol;Acc:HGNC:2637]	277	-0.37287163734436035	0.14098364	No	

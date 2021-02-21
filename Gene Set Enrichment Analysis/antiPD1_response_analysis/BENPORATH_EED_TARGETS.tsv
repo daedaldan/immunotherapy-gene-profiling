@@ -1,0 +1,39 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FBN2	fibrillin 2 [Source:HGNC Symbol;Acc:HGNC:3604]	8	0.722037672996521	0.0133793745	Yes	
+row_1	CRLF1	cytokine receptor like factor 1 [Source:HGNC Symbol;Acc:HGNC:2364]	15	0.673958420753479	0.031052621	Yes	
+row_2	FOXL1	forkhead box L1 [Source:HGNC Symbol;Acc:HGNC:3817]	18	0.6517524123191833	0.061579276	Yes	
+row_3	KL	klotho [Source:HGNC Symbol;Acc:HGNC:6344]	21	0.6313518285751343	0.0909292	Yes	
+row_4	SLC10A4	solute carrier family 10 member 4 [Source:HGNC Symbol;Acc:HGNC:22980]	29	0.5947805047035217	0.10050181	Yes	
+row_5	HES7	hes family bHLH transcription factor 7 [Source:HGNC Symbol;Acc:HGNC:15977]	30	0.5945408940315247	0.13479559	Yes	
+row_6	ALX4	ALX homeobox 4 [Source:HGNC Symbol;Acc:HGNC:450]	41	0.5549541711807251	0.13147026	Yes	
+row_7	DOK6	docking protein 6 [Source:HGNC Symbol;Acc:HGNC:28301]	45	0.5476916432380676	0.152461	Yes	
+row_8	FBLN7	fibulin 7 [Source:HGNC Symbol;Acc:HGNC:26740]	57	0.5078830718994141	0.142887	Yes	
+row_9	STC2	stanniocalcin 2 [Source:HGNC Symbol;Acc:HGNC:11374]	61	0.5031096339225769	0.1613062	Yes	
+row_10	LAYN	layilin [Source:HGNC Symbol;Acc:HGNC:29471]	66	0.4995553195476532	0.17598683	Yes	
+row_11	FZD8	frizzled class receptor 8 [Source:HGNC Symbol;Acc:HGNC:4046]	67	0.4993334412574768	0.20478894	Yes	
+row_12	OSR1	odd-skipped related transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:8111]	75	0.4886337220668793	0.20823888	Yes	
+row_13	OTP	orthopedia homeobox [Source:HGNC Symbol;Acc:HGNC:8518]	77	0.4871823489665985	0.23280652	Yes	
+row_14	NPNT	nephronectin [Source:HGNC Symbol;Acc:HGNC:27405]	97	0.4564126133918762	0.19199508	Yes	
+row_15	FOXG1	forkhead box G1 [Source:HGNC Symbol;Acc:HGNC:3811]	103	0.4494379758834839	0.20025133	Yes	
+row_16	GABRA2	gamma-aminobutyric acid type A receptor subunit alpha2 [Source:HGNC Symbol;Acc:HGNC:4076]	115	0.4247775673866272	0.1858837	Yes	
+row_17	DCHS2	dachsous cadherin-related 2 [Source:HGNC Symbol;Acc:HGNC:23111]	117	0.42154115438461304	0.20666508	Yes	
+row_18	SSTR2	somatostatin receptor 2 [Source:HGNC Symbol;Acc:HGNC:11331]	118	0.42094314098358154	0.23094556	Yes	
+row_19	LRRTM1	leucine rich repeat transmembrane neuronal 1 [Source:HGNC Symbol;Acc:HGNC:19408]	119	0.41829875111579895	0.2550735	Yes	
+row_20	NPTX2	neuronal pentraxin 2 [Source:HGNC Symbol;Acc:HGNC:7953]	131	0.39211606979370117	0.23882191	Yes	
+row_21	COL9A2	collagen type IX alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2218]	133	0.3901246190071106	0.25779116	Yes	
+row_22	PTGER2	prostaglandin E receptor 2 [Source:HGNC Symbol;Acc:HGNC:9594]	142	0.37741750478744507	0.25129247	Yes	
+row_23	NEURL1	neuralized E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:7761]	146	0.3742441236972809	0.26227856	Yes	
+row_24	KCNMA1	potassium calcium-activated channel subfamily M alpha 1 [Source:HGNC Symbol;Acc:HGNC:6284]	147	0.3738042116165161	0.28384	Yes	
+row_25	ADGRL3	adhesion G protein-coupled receptor L3 [Source:HGNC Symbol;Acc:HGNC:20974]	149	0.37252533435821533	0.3017941	Yes	
+row_26	SOD3	superoxide dismutase 3 [Source:HGNC Symbol;Acc:HGNC:11181]	151	0.3711445927619934	0.31966856	Yes	
+row_27	TRPA1	transient receptor potential cation channel subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:497]	155	0.3625761568546295	0.32998165	Yes	
+row_28	NKX2-5	NK2 homeobox 5 [Source:HGNC Symbol;Acc:HGNC:2488]	156	0.3624497652053833	0.35088813	Yes	
+row_29	MEOX2	mesenchyme homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7014]	163	0.35450732707977295	0.3501351	Yes	
+row_30	COMP	cartilage oligomeric matrix protein [Source:HGNC Symbol;Acc:HGNC:2227]	168	0.349396675825119	0.3561544	Yes	
+row_31	IGF2	insulin like growth factor 2 [Source:HGNC Symbol;Acc:HGNC:5466]	169	0.3475959002971649	0.37620413	Yes	
+row_32	DMRT2	doublesex and mab-3 related transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:2935]	189	0.29305100440979004	0.32596982	No	
+row_33	SPAG6	sperm associated antigen 6 [Source:HGNC Symbol;Acc:HGNC:11215]	209	0.22450634837150574	0.27178177	No	
+row_34	ONECUT1	one cut homeobox 1 [Source:HGNC Symbol;Acc:HGNC:8138]	257	-0.30095192790031433	0.123063274	No	
+row_35	SHISA2	shisa family member 2 [Source:HGNC Symbol;Acc:HGNC:20366]	272	-0.3613889515399933	0.09443862	No	
+row_36	OLIG2	oligodendrocyte transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:9398]	290	-0.4494580924510956	0.060293183	No	
+row_37	OLIG1	oligodendrocyte transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:16983]	314	-0.7312683463096619	0.021201458	No	

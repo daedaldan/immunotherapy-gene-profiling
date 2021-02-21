@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MFAP2	microfibril associated protein 2 [Source:HGNC Symbol;Acc:HGNC:7033]	5	0.7410611510276794	0.06727834	Yes	
+row_1	CRLF1	cytokine receptor like factor 1 [Source:HGNC Symbol;Acc:HGNC:2364]	15	0.673958420753479	0.11372046	Yes	
+row_2	SPAG4	sperm associated antigen 4 [Source:HGNC Symbol;Acc:HGNC:11214]	40	0.5633364319801331	0.09797929	Yes	
+row_3	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	46	0.5363436937332153	0.1420984	Yes	
+row_4	CCN4	cellular communication network factor 4 [Source:HGNC Symbol;Acc:HGNC:12769]	59	0.5062690377235413	0.15963641	Yes	
+row_5	MUC13	mucin 13, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7511]	62	0.5029782056808472	0.20991471	Yes	
+row_6	PHACTR3	phosphatase and actin regulator 3 [Source:HGNC Symbol;Acc:HGNC:15833]	79	0.48307326436042786	0.21158361	Yes	
+row_7	EPHA3	EPH receptor A3 [Source:HGNC Symbol;Acc:HGNC:3387]	88	0.4693993031978607	0.23819566	Yes	
+row_8	CFAP61	cilia and flagella associated protein 61 [Source:HGNC Symbol;Acc:HGNC:15872]	94	0.4607776999473572	0.27376616	Yes	
+row_9	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	95	0.4587521255016327	0.32566378	Yes	
+row_10	MXRA8	matrix remodeling associated 8 [Source:HGNC Symbol;Acc:HGNC:7542]	108	0.43431153893470764	0.3350614	Yes	
+row_11	COL7A1	collagen type VII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2214]	152	0.37109240889549255	0.23465817	No	
+row_12	CCNA1	cyclin A1 [Source:HGNC Symbol;Acc:HGNC:1577]	157	0.36244797706604004	0.2624161	No	
+row_13	LCN2	lipocalin 2 [Source:HGNC Symbol;Acc:HGNC:6526]	216	0.1390465795993805	0.08609314	No	
+row_14	TRAF3IP2	TRAF3 interacting protein 2 [Source:HGNC Symbol;Acc:HGNC:1343]	271	-0.3600335121154785	-0.051985003	No	
+row_15	GJB6	gap junction protein beta 6 [Source:HGNC Symbol;Acc:HGNC:4288]	278	-0.39462241530418396	-0.02720978	No	
+row_16	OLIG2	oligodendrocyte transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:9398]	290	-0.4494580924510956	-0.0127874045	No	
+row_17	SHD	Src homology 2 domain containing transforming protein D [Source:HGNC Symbol;Acc:HGNC:30633]	293	-0.4525606036186218	0.031787273	No	
+row_18	SULT1A1	sulfotransferase family 1A member 1 [Source:HGNC Symbol;Acc:HGNC:11453]	297	-0.4800358712673187	0.07615891	No	

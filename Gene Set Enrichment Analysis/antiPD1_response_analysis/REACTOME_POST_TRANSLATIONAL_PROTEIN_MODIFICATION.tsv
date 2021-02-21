@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STC2	stanniocalcin 2 [Source:HGNC Symbol;Acc:HGNC:11374]	61	0.5031096339225769	-0.11928576	Yes	
+row_1	MUC13	mucin 13, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7511]	62	0.5029782056808472	-0.037272807	Yes	
+row_2	UCHL1	ubiquitin C-terminal hydrolase L1 [Source:HGNC Symbol;Acc:HGNC:12513]	69	0.49821949005126953	0.02416223	Yes	
+row_3	ADAMTS12	ADAM metallopeptidase with thrombospondin type 1 motif 12 [Source:HGNC Symbol;Acc:HGNC:14605]	80	0.4817555546760559	0.06971142	Yes	
+row_4	MXRA8	matrix remodeling associated 8 [Source:HGNC Symbol;Acc:HGNC:7542]	108	0.43431153893470764	0.05141903	Yes	
+row_5	GFPT2	glutamine-fructose-6-phosphate transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4242]	127	0.39719510078430176	0.056777604	Yes	
+row_6	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	135	0.38681912422180176	0.09674796	Yes	
+row_7	COL7A1	collagen type VII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2214]	152	0.37109240889549255	0.10445103	Yes	
+row_8	CCNA1	cyclin A1 [Source:HGNC Symbol;Acc:HGNC:1577]	157	0.36244797706604004	0.15034854	Yes	
+row_9	LTBP1	latent transforming growth factor beta binding protein 1 [Source:HGNC Symbol;Acc:HGNC:6714]	194	0.2800982892513275	0.077208	No	
+row_10	RAB31	RAB31, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9771]	199	0.26717516779899597	0.107570834	No	
+row_11	ALB	albumin [Source:HGNC Symbol;Acc:HGNC:399]	218	0.050247564911842346	0.05635799	No	
+row_12	SERPIND1	serpin family D member 1 [Source:HGNC Symbol;Acc:HGNC:4838]	219	-0.06941308081150055	0.06767612	No	
+row_13	MUCL1	mucin like 1 [Source:HGNC Symbol;Acc:HGNC:30588]	223	-0.15100915729999542	0.08239788	No	
+row_14	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	225	-0.16644014418125153	0.10623639	No	
+row_15	AHSG	alpha 2-HS glycoprotein [Source:HGNC Symbol;Acc:HGNC:349]	234	-0.19736860692501068	0.11201563	No	
+row_16	TUBA3C	tubulin alpha 3c [Source:HGNC Symbol;Acc:HGNC:12408]	286	-0.4257465898990631	0.013118762	No	
+row_17	USP2	ubiquitin specific peptidase 2 [Source:HGNC Symbol;Acc:HGNC:12618]	307	-0.5874849557876587	0.042904325	No	

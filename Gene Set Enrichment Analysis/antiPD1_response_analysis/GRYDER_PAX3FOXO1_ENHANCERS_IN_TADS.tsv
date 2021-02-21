@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STC2	stanniocalcin 2 [Source:HGNC Symbol;Acc:HGNC:11374]	61	0.5031096339225769	-0.12729894	Yes	
+row_1	FZD8	frizzled class receptor 8 [Source:HGNC Symbol;Acc:HGNC:4046]	67	0.4993334412574768	-0.06972799	Yes	
+row_2	UCHL1	ubiquitin C-terminal hydrolase L1 [Source:HGNC Symbol;Acc:HGNC:12513]	69	0.49821949005126953	9.226226E-4	Yes	
+row_3	SDK1	sidekick cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:19307]	82	0.4797747731208801	0.03241123	Yes	
+row_4	RGS17	regulator of G protein signaling 17 [Source:HGNC Symbol;Acc:HGNC:14088]	85	0.474678099155426	0.0962558	Yes	
+row_5	STC1	stanniocalcin 1 [Source:HGNC Symbol;Acc:HGNC:11373]	128	0.3966955840587616	0.01607336	Yes	
+row_6	PXDN	peroxidasin [Source:HGNC Symbol;Acc:HGNC:14966]	129	0.39572954177856445	0.07482035	Yes	
+row_7	BCAT1	branched chain amino acid transaminase 1 [Source:HGNC Symbol;Acc:HGNC:976]	137	0.38392072916030884	0.108635485	Yes	
+row_8	KCNMA1	potassium calcium-activated channel subfamily M alpha 1 [Source:HGNC Symbol;Acc:HGNC:6284]	147	0.3738042116165161	0.1343263	Yes	
+row_9	IGF2	insulin like growth factor 2 [Source:HGNC Symbol;Acc:HGNC:5466]	169	0.3475959002971649	0.1163913	Yes	
+row_10	DMRT2	doublesex and mab-3 related transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:2935]	189	0.29305100440979004	0.09698151	Yes	
+row_11	HS6ST2	heparan sulfate 6-O-sulfotransferase 2 [Source:HGNC Symbol;Acc:HGNC:19133]	192	0.28548556566238403	0.13274	Yes	
+row_12	PODXL	podocalyxin like [Source:HGNC Symbol;Acc:HGNC:9171]	207	0.23536980152130127	0.1213236	Yes	
+row_13	NOS1	nitric oxide synthase 1 [Source:HGNC Symbol;Acc:HGNC:7872]	208	0.22710134088993073	0.15503733	Yes	
+row_14	ASS1	argininosuccinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:758]	213	0.16582506895065308	0.16640943	Yes	
+row_15	STK24	serine/threonine kinase 24 [Source:HGNC Symbol;Acc:HGNC:11403]	228	-0.17014530301094055	0.14531028	No	
+row_16	MAP2K5	mitogen-activated protein kinase kinase 5 [Source:HGNC Symbol;Acc:HGNC:6845]	233	-0.19547982513904572	0.1610847	No	
+row_17	SHISA2	shisa family member 2 [Source:HGNC Symbol;Acc:HGNC:20366]	272	-0.3613889515399933	0.08890593	No	
+row_18	OLIG2	oligodendrocyte transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:9398]	290	-0.4494580924510956	0.09933767	No	

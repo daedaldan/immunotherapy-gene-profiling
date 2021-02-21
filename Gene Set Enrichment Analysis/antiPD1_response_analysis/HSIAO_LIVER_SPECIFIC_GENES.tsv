@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AGTR1	angiotensin II receptor type 1 [Source:HGNC Symbol;Acc:HGNC:336]	162	0.3554823100566864	-0.452779	No	
+row_1	ASS1	argininosuccinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:758]	213	0.16582506895065308	-0.5796028	No	
+row_2	ALB	albumin [Source:HGNC Symbol;Acc:HGNC:399]	218	0.050247564911842346	-0.5812311	Yes	
+row_3	SERPIND1	serpin family D member 1 [Source:HGNC Symbol;Acc:HGNC:4838]	219	-0.06941308081150055	-0.5652439	Yes	
+row_4	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	225	-0.16644014418125153	-0.54341114	Yes	
+row_5	TTR	transthyretin [Source:HGNC Symbol;Acc:HGNC:12405]	229	-0.1806749850511551	-0.5116992	Yes	
+row_6	PLG	plasminogen [Source:HGNC Symbol;Acc:HGNC:9071]	230	-0.18169789016246796	-0.46985063	Yes	
+row_7	AHSG	alpha 2-HS glycoprotein [Source:HGNC Symbol;Acc:HGNC:349]	234	-0.19736860692501068	-0.4342938	Yes	
+row_8	HMGCS2	3-hydroxy-3-methylglutaryl-CoA synthase 2 [Source:HGNC Symbol;Acc:HGNC:5008]	236	-0.21145471930503845	-0.388892	Yes	
+row_9	HAL	histidine ammonia-lyase [Source:HGNC Symbol;Acc:HGNC:4806]	241	-0.23370243608951569	-0.3482671	Yes	
+row_10	SAA1	serum amyloid A1 [Source:HGNC Symbol;Acc:HGNC:10513]	245	-0.2406039983034134	-0.30275232	Yes	
+row_11	ITIH1	inter-alpha-trypsin inhibitor heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:6166]	246	-0.24555377662181854	-0.24619651	Yes	
+row_12	BAAT	bile acid-CoA:amino acid N-acyltransferase [Source:HGNC Symbol;Acc:HGNC:932]	247	-0.24869444966316223	-0.18891734	Yes	
+row_13	ADH4	alcohol dehydrogenase 4 (class II), pi polypeptide [Source:HGNC Symbol;Acc:HGNC:252]	248	-0.2537074387073517	-0.13048358	Yes	
+row_14	ALDOB	aldolase, fructose-bisphosphate B [Source:HGNC Symbol;Acc:HGNC:417]	258	-0.30121710896492004	-0.0908104	Yes	
+row_15	CYP3A4	cytochrome P450 family 3 subfamily A member 4 [Source:HGNC Symbol;Acc:HGNC:2637]	277	-0.37287163734436035	-0.06433676	Yes	
+row_16	VTN	vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	284	-0.4125460386276245	0.010878634	Yes	
+row_17	LSR	lipolysis stimulated lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:29572]	295	-0.45429423451423645	0.082508124	Yes	

@@ -1,0 +1,27 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CPAMD8	C3 and PZP like alpha-2-macroglobulin domain containing 8 [Source:HGNC Symbol;Acc:HGNC:23228]	7	0.7284939289093018	0.03999385	Yes	
+row_1	TMEM100	transmembrane protein 100 [Source:HGNC Symbol;Acc:HGNC:25607]	24	0.6185195446014404	0.039859567	Yes	
+row_2	CYS1	cystin 1 [Source:HGNC Symbol;Acc:HGNC:18525]	26	0.5986654758453369	0.088836074	Yes	
+row_3	ITGA8	integrin subunit alpha 8 [Source:HGNC Symbol;Acc:HGNC:6144]	42	0.5544496178627014	0.08648731	Yes	
+row_4	WIF1	WNT inhibitory factor 1 [Source:HGNC Symbol;Acc:HGNC:18081]	44	0.548621416091919	0.13108636	Yes	
+row_5	CLMP	CXADR like membrane protein [Source:HGNC Symbol;Acc:HGNC:24039]	47	0.5343773365020752	0.17104964	Yes	
+row_6	CLIC6	chloride intracellular channel 6 [Source:HGNC Symbol;Acc:HGNC:2065]	50	0.5247197151184082	0.21016815	Yes	
+row_7	DKK3	dickkopf WNT signaling pathway inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:2893]	51	0.5188071131706238	0.25554913	Yes	
+row_8	NHS	NHS actin remodeling regulator [Source:HGNC Symbol;Acc:HGNC:7820]	53	0.5135695934295654	0.29708216	Yes	
+row_9	RASL12	RAS like family 12 [Source:HGNC Symbol;Acc:HGNC:30289]	63	0.5027725100517273	0.31055206	Yes	
+row_10	LAYN	layilin [Source:HGNC Symbol;Acc:HGNC:29471]	66	0.4995553195476532	0.34746942	Yes	
+row_11	PDGFD	platelet derived growth factor D [Source:HGNC Symbol;Acc:HGNC:30620]	100	0.45308855175971985	0.27523747	Yes	
+row_12	COL13A1	collagen type XIII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2190]	120	0.41313087940216064	0.24696797	Yes	
+row_13	PTGER2	prostaglandin E receptor 2 [Source:HGNC Symbol;Acc:HGNC:9594]	142	0.37741750478744507	0.20879492	Yes	
+row_14	KCNMA1	potassium calcium-activated channel subfamily M alpha 1 [Source:HGNC Symbol;Acc:HGNC:6284]	147	0.3738042116165161	0.22793292	Yes	
+row_15	MRC2	mannose receptor C type 2 [Source:HGNC Symbol;Acc:HGNC:16875]	150	0.3713046908378601	0.25363195	Yes	
+row_16	COL7A1	collagen type VII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2214]	152	0.37109240889549255	0.2827022	Yes	
+row_17	LMOD1	leiomodin 1 [Source:HGNC Symbol;Acc:HGNC:6647]	153	0.36962416768074036	0.3150339	Yes	
+row_18	MECOM	MDS1 and EVI1 complex locus [Source:HGNC Symbol;Acc:HGNC:3498]	154	0.36605626344680786	0.3470535	Yes	
+row_19	ID1	inhibitor of DNA binding 1, HLH protein [Source:HGNC Symbol;Acc:HGNC:5360]	165	0.35224467515945435	0.34396666	Yes	
+row_20	MEG3	maternally expressed 3 [Source:HGNC Symbol;Acc:HGNC:14575]	166	0.3496131896972656	0.37454796	Yes	
+row_21	IGF2	insulin like growth factor 2 [Source:HGNC Symbol;Acc:HGNC:5466]	169	0.3475959002971649	0.39817312	Yes	
+row_22	PTGDS	prostaglandin D2 synthase [Source:HGNC Symbol;Acc:HGNC:9592]	177	0.3328162133693695	0.40355632	Yes	
+row_23	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	183	0.3164001405239105	0.41428328	Yes	
+row_24	LTBP1	latent transforming growth factor beta binding protein 1 [Source:HGNC Symbol;Acc:HGNC:6714]	194	0.2800982892513275	0.40488565	No	
+row_25	KRT5	keratin 5 [Source:HGNC Symbol;Acc:HGNC:6442]	238	-0.21542078256607056	0.27796617	No	

@@ -1,0 +1,28 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MFAP2	microfibril associated protein 2 [Source:HGNC Symbol;Acc:HGNC:7033]	5	0.7410611510276794	0.048046093	No	
+row_1	LRRC17	leucine rich repeat containing 17 [Source:HGNC Symbol;Acc:HGNC:16895]	32	0.5859858393669128	0.011050574	No	
+row_2	PPP1R14A	protein phosphatase 1 regulatory inhibitor subunit 14A [Source:HGNC Symbol;Acc:HGNC:14871]	55	0.5121545791625977	-0.018820666	No	
+row_3	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	95	0.4587521255016327	-0.11120288	No	
+row_4	NPNT	nephronectin [Source:HGNC Symbol;Acc:HGNC:27405]	97	0.4564126133918762	-0.074538775	No	
+row_5	TRIL	TLR4 interactor with leucine rich repeats [Source:HGNC Symbol;Acc:HGNC:22200]	99	0.45385056734085083	-0.038099572	No	
+row_6	LAMA2	laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	101	0.45167556405067444	-0.0018512951	No	
+row_7	MFAP4	microfibril associated protein 4 [Source:HGNC Symbol;Acc:HGNC:7035]	107	0.4356086552143097	0.019381128	No	
+row_8	MXRA8	matrix remodeling associated 8 [Source:HGNC Symbol;Acc:HGNC:7542]	108	0.43431153893470764	0.05750649	No	
+row_9	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	114	0.42596179246902466	0.07789208	No	
+row_10	BCAT1	branched chain amino acid transaminase 1 [Source:HGNC Symbol;Acc:HGNC:976]	137	0.38392072916030884	0.036764033	No	
+row_11	COL7A1	collagen type VII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2214]	152	0.37109240889549255	0.021720752	No	
+row_12	MECOM	MDS1 and EVI1 complex locus [Source:HGNC Symbol;Acc:HGNC:3498]	154	0.36605626344680786	0.050453074	No	
+row_13	AGTR1	angiotensin II receptor type 1 [Source:HGNC Symbol;Acc:HGNC:336]	162	0.3554823100566864	0.05784901	No	
+row_14	LTBP1	latent transforming growth factor beta binding protein 1 [Source:HGNC Symbol;Acc:HGNC:6714]	194	0.2800982892513275	-0.023005174	No	
+row_15	RAB31	RAB31, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9771]	199	0.26717516779899597	-0.01315706	No	
+row_16	LCN2	lipocalin 2 [Source:HGNC Symbol;Acc:HGNC:6526]	216	0.1390465795993805	-0.05537284	No	
+row_17	TBC1D4	TBC1 domain family member 4 [Source:HGNC Symbol;Acc:HGNC:19165]	242	-0.23386181890964508	-0.11987766	No	
+row_18	DDR1	discoidin domain receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:2730]	244	-0.23922085762023926	-0.10227939	No	
+row_19	LTF	lactotransferrin [Source:HGNC Symbol;Acc:HGNC:6720]	250	-0.25800758600234985	-0.0966374	No	
+row_20	TSPAN8	tetraspanin 8 [Source:HGNC Symbol;Acc:HGNC:11855]	255	-0.29093775153160095	-0.084703326	No	
+row_21	VTN	vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	284	-0.4125460386276245	-0.1437267	Yes	
+row_22	IRF6	interferon regulatory factor 6 [Source:HGNC Symbol;Acc:HGNC:6121]	287	-0.44151923060417175	-0.11177135	Yes	
+row_23	SULT1A1	sulfotransferase family 1A member 1 [Source:HGNC Symbol;Acc:HGNC:11453]	297	-0.4800358712673187	-0.100244395	Yes	
+row_24	GABRP	gamma-aminobutyric acid type A receptor subunit pi [Source:HGNC Symbol;Acc:HGNC:4089]	299	-0.496753990650177	-0.060038984	Yes	
+row_25	CYP39A1	cytochrome P450 family 39 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:17449]	310	-0.61420077085495	-0.040135935	Yes	
+row_26	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	318	-0.8059419393539429	0.0068029026	Yes	
