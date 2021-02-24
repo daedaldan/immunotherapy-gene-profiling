@@ -1,17 +1,17 @@
 NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
-row_0	RASL11B	RAS like family 11 member B [Source:HGNC Symbol;Acc:HGNC:23804]	25	0.6180624961853027	-0.0016879374	No	
-row_1	CYS1	cystin 1 [Source:HGNC Symbol;Acc:HGNC:18525]	26	0.5986654758453369	0.07607189	No	
-row_2	WIF1	WNT inhibitory factor 1 [Source:HGNC Symbol;Acc:HGNC:18081]	44	0.548621416091919	0.091593854	No	
-row_3	CLIC6	chloride intracellular channel 6 [Source:HGNC Symbol;Acc:HGNC:2065]	50	0.5247197151184082	0.14335552	No	
-row_4	RIPPLY3	ripply transcriptional repressor 3 [Source:HGNC Symbol;Acc:HGNC:3047]	83	0.47588643431663513	0.10024971	No	
-row_5	EPHA3	EPH receptor A3 [Source:HGNC Symbol;Acc:HGNC:3387]	88	0.4693993031978607	0.14810458	No	
-row_6	PDGFD	platelet derived growth factor D [Source:HGNC Symbol;Acc:HGNC:30620]	100	0.45308855175971985	0.17089003	No	
-row_7	AGTR1	angiotensin II receptor type 1 [Source:HGNC Symbol;Acc:HGNC:336]	162	0.3554823100566864	0.017063133	No	
-row_8	ID1	inhibitor of DNA binding 1, HLH protein [Source:HGNC Symbol;Acc:HGNC:5360]	165	0.35224467515945435	0.056258325	No	
-row_9	BHLHA15	basic helix-loop-helix family member a15 [Source:HGNC Symbol;Acc:HGNC:22265]	173	0.3365665078163147	0.077023655	No	
-row_10	ADGRG2	adhesion G protein-coupled receptor G2 [Source:HGNC Symbol;Acc:HGNC:4516]	188	0.29584112763404846	0.069548406	No	
-row_11	GDPD2	glycerophosphodiester phosphodiesterase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:25974]	211	0.1961951106786728	0.022900768	No	
-row_12	SULT1A1	sulfotransferase family 1A member 1 [Source:HGNC Symbol;Acc:HGNC:11453]	297	-0.4800358712673187	-0.19343656	Yes	
-row_13	USP2	ubiquitin specific peptidase 2 [Source:HGNC Symbol;Acc:HGNC:12618]	307	-0.5874849557876587	-0.14663716	Yes	
-row_14	ATP8A2	ATPase phospholipid transporting 8A2 [Source:HGNC Symbol;Acc:HGNC:13533]	308	-0.600668728351593	-0.06861714	Yes	
-row_15	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	318	-0.8059419393539429	0.0065573314	Yes	
+row_0	RASL11B	RAS like family 11 member B [Source:HGNC Symbol;Acc:HGNC:23804]	27	0.6180624961853027	-3.177398E-4	No	
+row_1	CYS1	cystin 1 [Source:HGNC Symbol;Acc:HGNC:18525]	28	0.5986654758453369	0.07744209	No	
+row_2	WIF1	WNT inhibitory factor 1 [Source:HGNC Symbol;Acc:HGNC:18081]	47	0.548621416091919	0.09497041	No	
+row_3	CLIC6	chloride intracellular channel 6 [Source:HGNC Symbol;Acc:HGNC:2065]	53	0.5247197151184082	0.14820015	No	
+row_4	RIPPLY3	ripply transcriptional repressor 3 [Source:HGNC Symbol;Acc:HGNC:3047]	91	0.47588643431663513	0.099564604	No	
+row_5	EPHA3	EPH receptor A3 [Source:HGNC Symbol;Acc:HGNC:3387]	96	0.4693993031978607	0.14859393	No	
+row_6	PDGFD	platelet derived growth factor D [Source:HGNC Symbol;Acc:HGNC:30620]	108	0.45308855175971985	0.17460914	No	
+row_7	AGTR1	angiotensin II receptor type 1 [Source:HGNC Symbol;Acc:HGNC:336]	171	0.3554823100566864	0.035707615	No	
+row_8	ID1	inhibitor of DNA binding 1, HLH protein [Source:HGNC Symbol;Acc:HGNC:5360]	174	0.35224467515945435	0.07549003	No	
+row_9	BHLHA15	basic helix-loop-helix family member a15 [Source:HGNC Symbol;Acc:HGNC:22265]	182	0.3365665078163147	0.09831066	No	
+row_10	ADGRG2	adhesion G protein-coupled receptor G2 [Source:HGNC Symbol;Acc:HGNC:4516]	199	0.29584112763404846	0.088975854	No	
+row_11	GDPD2	glycerophosphodiester phosphodiesterase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:25974]	222	0.1961951106786728	0.04878772	No	
+row_12	SULT1A1	sulfotransferase family 1A member 1 [Source:HGNC Symbol;Acc:HGNC:11453]	319	-0.4800358712673187	-0.17542826	Yes	
+row_13	USP2	ubiquitin specific peptidase 2 [Source:HGNC Symbol;Acc:HGNC:12618]	331	-0.5874849557876587	-0.13195647	Yes	
+row_14	ATP8A2	ATPase phospholipid transporting 8A2 [Source:HGNC Symbol;Acc:HGNC:13533]	332	-0.600668728351593	-0.05393645	Yes	
+row_15	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	347	-0.8059419393539429	0.008955171	Yes	

@@ -1,0 +1,14 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IGF2	insulin like growth factor 2 [Source:HGNC Symbol;Acc:HGNC:5466]	178	0.3475959002971649	-0.44524428	No	
+row_1	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	238	-0.16644014418125153	-0.5808317	Yes	
+row_2	TTR	transthyretin [Source:HGNC Symbol;Acc:HGNC:12405]	242	-0.1806749850511551	-0.54740584	Yes	
+row_3	PLG	plasminogen [Source:HGNC Symbol;Acc:HGNC:9071]	243	-0.18169789016246796	-0.5048648	Yes	
+row_4	AMBP	alpha-1-microglobulin/bikunin precursor [Source:HGNC Symbol;Acc:HGNC:453]	251	-0.2123195230960846	-0.4758643	Yes	
+row_5	RDH16	retinol dehydrogenase 16 [Source:HGNC Symbol;Acc:HGNC:29674]	254	-0.22454360127449036	-0.42920884	Yes	
+row_6	ITIH1	inter-alpha-trypsin inhibitor heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:6166]	260	-0.24555377662181854	-0.38651	Yes	
+row_7	ADH4	alcohol dehydrogenase 4 (class II), pi polypeptide [Source:HGNC Symbol;Acc:HGNC:252]	262	-0.2537074387073517	-0.33006787	Yes	
+row_8	ALDOB	aldolase, fructose-bisphosphate B [Source:HGNC Symbol;Acc:HGNC:417]	273	-0.30121710896492004	-0.28912944	Yes	
+row_9	FITM1	fat storage inducing transmembrane protein 1 [Source:HGNC Symbol;Acc:HGNC:33714]	293	-0.37179914116859436	-0.2582928	Yes	
+row_10	VTN	vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	303	-0.4125460386276245	-0.18833023	Yes	
+row_11	CYP39A1	cytochrome P450 family 39 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:17449]	334	-0.61420077085495	-0.13328426	Yes	
+row_12	HOGA1	4-hydroxy-2-oxoglutarate aldolase 1 [Source:HGNC Symbol;Acc:HGNC:25155]	344	-0.7588187456130981	0.01775143	Yes	

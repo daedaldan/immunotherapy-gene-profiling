@@ -1,19 +1,19 @@
 NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
 row_0	FOXC2	forkhead box C2 [Source:HGNC Symbol;Acc:HGNC:3801]	0	0.8063567280769348	0.09637678	Yes	
-row_1	FBN2	fibrillin 2 [Source:HGNC Symbol;Acc:HGNC:3604]	8	0.722037672996521	0.15957333	Yes	
-row_2	FOXL1	forkhead box L1 [Source:HGNC Symbol;Acc:HGNC:3817]	18	0.6517524123191833	0.20776863	Yes	
-row_3	LRRC17	leucine rich repeat containing 17 [Source:HGNC Symbol;Acc:HGNC:16895]	32	0.5859858393669128	0.23490211	Yes	
-row_4	RUNX1T1	RUNX1 partner transcriptional co-repressor 1 [Source:HGNC Symbol;Acc:HGNC:1535]	35	0.5783528089523315	0.2974269	Yes	
-row_5	CCN4	cellular communication network factor 4 [Source:HGNC Symbol;Acc:HGNC:12769]	59	0.5062690377235413	0.28202924	Yes	
-row_6	VAT1L	vesicle amine transport 1 like [Source:HGNC Symbol;Acc:HGNC:29315]	60	0.5031486749649048	0.34216622	Yes	
-row_7	RGS17	regulator of G protein signaling 17 [Source:HGNC Symbol;Acc:HGNC:14088]	85	0.474678099155426	0.31969243	Yes	
-row_8	PDGFD	platelet derived growth factor D [Source:HGNC Symbol;Acc:HGNC:30620]	100	0.45308855175971985	0.32764152	Yes	
-row_9	MFAP4	microfibril associated protein 4 [Source:HGNC Symbol;Acc:HGNC:7035]	107	0.4356086552143097	0.35990405	Yes	
-row_10	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	114	0.42596179246902466	0.39101356	Yes	
-row_11	PTGER2	prostaglandin E receptor 2 [Source:HGNC Symbol;Acc:HGNC:9594]	142	0.37741750478744507	0.34701407	Yes	
-row_12	KCNMA1	potassium calcium-activated channel subfamily M alpha 1 [Source:HGNC Symbol;Acc:HGNC:6284]	147	0.3738042116165161	0.3784903	Yes	
-row_13	LMOD1	leiomodin 1 [Source:HGNC Symbol;Acc:HGNC:6647]	153	0.36962416768074036	0.40616658	Yes	
-row_14	MECOM	MDS1 and EVI1 complex locus [Source:HGNC Symbol;Acc:HGNC:3498]	154	0.36605626344680786	0.4499181	Yes	
-row_15	SULF1	sulfatase 1 [Source:HGNC Symbol;Acc:HGNC:20391]	200	0.26434779167175293	0.33299842	No	
-row_16	ASS1	argininosuccinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:758]	213	0.16582506895065308	0.3132141	No	
-row_17	PSG4	pregnancy specific beta-1-glycoprotein 4 [Source:HGNC Symbol;Acc:HGNC:9521]	261	-0.30639538168907166	0.19471934	No	
+row_1	FBN2	fibrillin 2 [Source:HGNC Symbol;Acc:HGNC:3604]	8	0.722037672996521	0.16165462	Yes	
+row_2	FOXL1	forkhead box L1 [Source:HGNC Symbol;Acc:HGNC:3817]	18	0.6517524123191833	0.21252587	Yes	
+row_3	LRRC17	leucine rich repeat containing 17 [Source:HGNC Symbol;Acc:HGNC:16895]	34	0.5859858393669128	0.2375186	Yes	
+row_4	RUNX1T1	RUNX1 partner transcriptional co-repressor 1 [Source:HGNC Symbol;Acc:HGNC:1535]	38	0.5783528089523315	0.29763505	Yes	
+row_5	CCN4	cellular communication network factor 4 [Source:HGNC Symbol;Acc:HGNC:12769]	63	0.5062690377235413	0.2860729	Yes	
+row_6	VAT1L	vesicle amine transport 1 like [Source:HGNC Symbol;Acc:HGNC:29315]	64	0.5031486749649048	0.34620988	Yes	
+row_7	RGS17	regulator of G protein signaling 17 [Source:HGNC Symbol;Acc:HGNC:14088]	93	0.474678099155426	0.3188599	Yes	
+row_8	PDGFD	platelet derived growth factor D [Source:HGNC Symbol;Acc:HGNC:30620]	108	0.45308855175971985	0.3309716	Yes	
+row_9	MFAP4	microfibril associated protein 4 [Source:HGNC Symbol;Acc:HGNC:7035]	115	0.4356086552143097	0.36501807	Yes	
+row_10	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	122	0.42596179246902466	0.39791155	Yes	
+row_11	PTGER2	prostaglandin E receptor 2 [Source:HGNC Symbol;Acc:HGNC:9594]	151	0.37741750478744507	0.35893688	Yes	
+row_12	KCNMA1	potassium calcium-activated channel subfamily M alpha 1 [Source:HGNC Symbol;Acc:HGNC:6284]	156	0.3738042116165161	0.39160243	Yes	
+row_13	LMOD1	leiomodin 1 [Source:HGNC Symbol;Acc:HGNC:6647]	162	0.36962416768074036	0.42076537	Yes	
+row_14	MECOM	MDS1 and EVI1 complex locus [Source:HGNC Symbol;Acc:HGNC:3498]	163	0.36605626344680786	0.46451688	Yes	
+row_15	SULF1	sulfatase 1 [Source:HGNC Symbol;Acc:HGNC:20391]	211	0.26434779167175293	0.3549709	No	
+row_16	ASS1	argininosuccinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:758]	224	0.16582506895065308	0.3387545	No	
+row_17	PSG4	pregnancy specific beta-1-glycoprotein 4 [Source:HGNC Symbol;Acc:HGNC:9521]	276	-0.30639538168907166	0.2222221	No	

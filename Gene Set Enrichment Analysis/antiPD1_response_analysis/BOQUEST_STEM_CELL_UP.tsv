@@ -1,26 +1,26 @@
 NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
-row_0	MFAP2	microfibril associated protein 2 [Source:HGNC Symbol;Acc:HGNC:7033]	5	0.7410611510276794	0.05306408	Yes	
-row_1	LRRC17	leucine rich repeat containing 17 [Source:HGNC Symbol;Acc:HGNC:16895]	32	0.5859858393669128	0.020543149	Yes	
-row_2	ITGA8	integrin subunit alpha 8 [Source:HGNC Symbol;Acc:HGNC:6144]	42	0.5544496178627014	0.042477638	Yes	
-row_3	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	46	0.5363436937332153	0.082973205	Yes	
-row_4	OGN	osteoglycin [Source:HGNC Symbol;Acc:HGNC:8126]	73	0.48939749598503113	0.041334357	Yes	
-row_5	OMD	osteomodulin [Source:HGNC Symbol;Acc:HGNC:8134]	87	0.4707562327384949	0.041854702	Yes	
-row_6	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	95	0.4587521255016327	0.06151213	Yes	
-row_7	GLT8D2	glycosyltransferase 8 domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24890]	96	0.4574350118637085	0.104693875	Yes	
-row_8	PDGFD	platelet derived growth factor D [Source:HGNC Symbol;Acc:HGNC:30620]	100	0.45308855175971985	0.13733017	Yes	
-row_9	LAMA2	laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	101	0.45167556405067444	0.17996824	Yes	
-row_10	SVEP1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:15985]	106	0.4417065382003784	0.2081517	Yes	
-row_11	MFAP4	microfibril associated protein 4 [Source:HGNC Symbol;Acc:HGNC:7035]	107	0.4356086552143097	0.24927303	Yes	
-row_12	MXRA8	matrix remodeling associated 8 [Source:HGNC Symbol;Acc:HGNC:7542]	108	0.43431153893470764	0.29027194	Yes	
-row_13	GFPT2	glutamine-fructose-6-phosphate transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4242]	127	0.39719510078430176	0.26695624	Yes	
-row_14	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	135	0.38681912422180176	0.2798232	Yes	
-row_15	FMOD	fibromodulin [Source:HGNC Symbol;Acc:HGNC:3774]	148	0.37265151739120483	0.27446088	Yes	
-row_16	MRC2	mannose receptor C type 2 [Source:HGNC Symbol;Acc:HGNC:16875]	150	0.3713046908378601	0.30613354	Yes	
-row_17	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	160	0.35695356130599976	0.30942446	Yes	
-row_18	OLFML1	olfactomedin like 1 [Source:HGNC Symbol;Acc:HGNC:24473]	164	0.3542158305644989	0.33272722	Yes	
-row_19	MEG3	maternally expressed 3 [Source:HGNC Symbol;Acc:HGNC:14575]	166	0.3496131896972656	0.36235222	Yes	
-row_20	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	171	0.344868540763855	0.3813942	Yes	
-row_21	PTGDS	prostaglandin D2 synthase [Source:HGNC Symbol;Acc:HGNC:9592]	177	0.3328162133693695	0.39592007	Yes	
-row_22	SLIT3	slit guidance ligand 3 [Source:HGNC Symbol;Acc:HGNC:11087]	195	0.2744216322898865	0.36439297	No	
-row_23	LRP1B	LDL receptor related protein 1B [Source:HGNC Symbol;Acc:HGNC:6693]	205	0.2508825957775116	0.3576708	No	
-row_24	TSPAN8	tetraspanin 8 [Source:HGNC Symbol;Acc:HGNC:11855]	255	-0.29093775153160095	0.21959472	No	
+row_0	MFAP2	microfibril associated protein 2 [Source:HGNC Symbol;Acc:HGNC:7033]	5	0.7410611510276794	0.054618552	Yes	
+row_1	LRRC17	leucine rich repeat containing 17 [Source:HGNC Symbol;Acc:HGNC:16895]	34	0.5859858393669128	0.02404589	Yes	
+row_2	ITGA8	integrin subunit alpha 8 [Source:HGNC Symbol;Acc:HGNC:6144]	45	0.5544496178627014	0.04571094	Yes	
+row_3	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	49	0.5363436937332153	0.08713919	Yes	
+row_4	OGN	osteoglycin [Source:HGNC Symbol;Acc:HGNC:8126]	79	0.48939749598503113	0.044381127	Yes	
+row_5	OMD	osteomodulin [Source:HGNC Symbol;Acc:HGNC:8134]	95	0.4707562327384949	0.042808123	Yes	
+row_6	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	103	0.4587521255016327	0.06464181	Yes	
+row_7	GLT8D2	glycosyltransferase 8 domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24890]	104	0.4574350118637085	0.10782355	Yes	
+row_8	PDGFD	platelet derived growth factor D [Source:HGNC Symbol;Acc:HGNC:30620]	108	0.45308855175971985	0.14139254	Yes	
+row_9	LAMA2	laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	109	0.45167556405067444	0.18403059	Yes	
+row_10	SVEP1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:15985]	114	0.4417065382003784	0.21345763	Yes	
+row_11	MFAP4	microfibril associated protein 4 [Source:HGNC Symbol;Acc:HGNC:7035]	115	0.4356086552143097	0.25457898	Yes	
+row_12	MXRA8	matrix remodeling associated 8 [Source:HGNC Symbol;Acc:HGNC:7542]	116	0.43431153893470764	0.29557788	Yes	
+row_13	GFPT2	glutamine-fructose-6-phosphate transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4242]	135	0.39719510078430176	0.27785826	Yes	
+row_14	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	144	0.38681912422180176	0.289834	Yes	
+row_15	FMOD	fibromodulin [Source:HGNC Symbol;Acc:HGNC:3774]	157	0.37265151739120483	0.2882024	Yes	
+row_16	MRC2	mannose receptor C type 2 [Source:HGNC Symbol;Acc:HGNC:16875]	159	0.3713046908378601	0.32018596	Yes	
+row_17	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	169	0.35695356130599976	0.32627493	Yes	
+row_18	OLFML1	olfactomedin like 1 [Source:HGNC Symbol;Acc:HGNC:24473]	173	0.3542158305644989	0.35051036	Yes	
+row_19	MEG3	maternally expressed 3 [Source:HGNC Symbol;Acc:HGNC:14575]	175	0.3496131896972656	0.38044626	Yes	
+row_20	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	180	0.344868540763855	0.40073183	Yes	
+row_21	PTGDS	prostaglandin D2 synthase [Source:HGNC Symbol;Acc:HGNC:9592]	186	0.3328162133693695	0.41681215	Yes	
+row_22	SLIT3	slit guidance ligand 3 [Source:HGNC Symbol;Acc:HGNC:11087]	206	0.2744216322898865	0.3844353	No	
+row_23	LRP1B	LDL receptor related protein 1B [Source:HGNC Symbol;Acc:HGNC:6693]	216	0.2508825957775116	0.38051116	No	
+row_24	TSPAN8	tetraspanin 8 [Source:HGNC Symbol;Acc:HGNC:11855]	269	-0.29093775153160095	0.24846642	No	

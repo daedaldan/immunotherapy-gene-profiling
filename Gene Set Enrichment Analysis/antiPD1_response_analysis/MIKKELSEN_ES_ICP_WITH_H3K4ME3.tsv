@@ -1,0 +1,12 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LAMA2	laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	109	0.45167556405067444	-0.21940024	Yes	
+row_1	STC1	stanniocalcin 1 [Source:HGNC Symbol;Acc:HGNC:11373]	136	0.3966955840587616	-0.20699988	Yes	
+row_2	CALHM5	calcium homeostasis modulator family member 5 [Source:HGNC Symbol;Acc:HGNC:21568]	141	0.3902851939201355	-0.13132976	Yes	
+row_3	COL7A1	collagen type VII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2214]	161	0.37109240889549255	-0.104077	Yes	
+row_4	LMOD1	leiomodin 1 [Source:HGNC Symbol;Acc:HGNC:6647]	162	0.36962416768074036	-0.021270812	Yes	
+row_5	TRPA1	transient receptor potential cation channel subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:497]	164	0.3625761568546295	0.057015248	Yes	
+row_6	SULF1	sulfatase 1 [Source:HGNC Symbol;Acc:HGNC:20391]	211	0.26434779167175293	-0.01905755	Yes	
+row_7	TRAF3IP2	TRAF3 interacting protein 2 [Source:HGNC Symbol;Acc:HGNC:1343]	287	-0.3600335121154785	-0.15898818	Yes	
+row_8	MYBPC2	myosin binding protein C2 [Source:HGNC Symbol;Acc:HGNC:7550]	291	-0.3667781949043274	-0.0856431	Yes	
+row_9	FITM1	fat storage inducing transmembrane protein 1 [Source:HGNC Symbol;Acc:HGNC:33714]	293	-0.37179914116859436	-0.005290839	Yes	
+row_10	HOGA1	4-hydroxy-2-oxoglutarate aldolase 1 [Source:HGNC Symbol;Acc:HGNC:25155]	344	-0.7588187456130981	0.017647028	Yes	

@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FOXC2	forkhead box C2 [Source:HGNC Symbol;Acc:HGNC:3801]	0	0.8063567280769348	0.105977975	Yes	
+row_1	FBN2	fibrillin 2 [Source:HGNC Symbol;Acc:HGNC:3604]	8	0.722037672996521	0.17997853	Yes	
+row_2	CRLF1	cytokine receptor like factor 1 [Source:HGNC Symbol;Acc:HGNC:2364]	15	0.673958420753479	0.2506452	Yes	
+row_3	ELN	elastin [Source:HGNC Symbol;Acc:HGNC:3327]	42	0.563974916934967	0.24715544	Yes	
+row_4	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	49	0.5363436937332153	0.29973564	Yes	
+row_5	FZD8	frizzled class receptor 8 [Source:HGNC Symbol;Acc:HGNC:4046]	71	0.4993334412574768	0.30267555	Yes	
+row_6	FBLN2	fibulin 2 [Source:HGNC Symbol;Acc:HGNC:3601]	98	0.46831223368644714	0.28661302	Yes	
+row_7	LAMA2	laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	109	0.45167556405067444	0.31612515	Yes	
+row_8	MMP1	matrix metallopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:7155]	119	0.43052342534065247	0.3458424	Yes	
+row_9	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	144	0.38681912422180176	0.32503954	Yes	
+row_10	FMOD	fibromodulin [Source:HGNC Symbol;Acc:HGNC:3774]	157	0.37265151739120483	0.33819553	Yes	
+row_11	COL7A1	collagen type VII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2214]	161	0.37109240889549255	0.3780123	Yes	
+row_12	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	169	0.35695356130599976	0.40403053	Yes	
+row_13	COMP	cartilage oligomeric matrix protein [Source:HGNC Symbol;Acc:HGNC:2227]	177	0.349396675825119	0.42905554	Yes	
+row_14	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	180	0.344868540763855	0.46841085	Yes	
+row_15	SLIT3	slit guidance ligand 3 [Source:HGNC Symbol;Acc:HGNC:11087]	206	0.2744216322898865	0.4298507	No	

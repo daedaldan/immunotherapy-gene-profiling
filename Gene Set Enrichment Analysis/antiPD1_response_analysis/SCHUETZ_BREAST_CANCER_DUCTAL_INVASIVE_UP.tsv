@@ -1,21 +1,21 @@
 NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
-row_0	MFAP2	microfibril associated protein 2 [Source:HGNC Symbol;Acc:HGNC:7033]	5	0.7410611510276794	0.069515474	Yes	
-row_1	FBN2	fibrillin 2 [Source:HGNC Symbol;Acc:HGNC:3604]	8	0.722037672996521	0.1467868	Yes	
-row_2	LRRC17	leucine rich repeat containing 17 [Source:HGNC Symbol;Acc:HGNC:16895]	32	0.5859858393669128	0.13847862	Yes	
-row_3	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	46	0.5363436937332153	0.15762357	Yes	
-row_4	CCN4	cellular communication network factor 4 [Source:HGNC Symbol;Acc:HGNC:12769]	59	0.5062690377235413	0.1765955	Yes	
-row_5	FBLN2	fibulin 2 [Source:HGNC Symbol;Acc:HGNC:3601]	90	0.46831223368644714	0.13135538	Yes	
-row_6	MXRA8	matrix remodeling associated 8 [Source:HGNC Symbol;Acc:HGNC:7542]	108	0.43431153893470764	0.12535304	Yes	
-row_7	MMP1	matrix metallopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:7155]	111	0.43052342534065247	0.16874433	Yes	
-row_8	MMP13	matrix metallopeptidase 13 [Source:HGNC Symbol;Acc:HGNC:7159]	126	0.39747288823127747	0.16842733	Yes	
-row_9	GFPT2	glutamine-fructose-6-phosphate transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4242]	127	0.39719510078430176	0.21458969	Yes	
-row_10	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	135	0.38681912422180176	0.23629034	Yes	
-row_11	MRC2	mannose receptor C type 2 [Source:HGNC Symbol;Acc:HGNC:16875]	150	0.3713046908378601	0.23293206	Yes	
-row_12	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	160	0.35695356130599976	0.24451718	Yes	
-row_13	OLFML1	olfactomedin like 1 [Source:HGNC Symbol;Acc:HGNC:24473]	164	0.3542158305644989	0.27571768	Yes	
-row_14	COMP	cartilage oligomeric matrix protein [Source:HGNC Symbol;Acc:HGNC:2227]	168	0.349396675825119	0.30635807	Yes	
-row_15	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	171	0.344868540763855	0.3397945	Yes	
-row_16	ADGRF5	adhesion G protein-coupled receptor F5 [Source:HGNC Symbol;Acc:HGNC:19030]	181	0.32042446732521057	0.34713414	Yes	
-row_17	MICAL2	microtubule associated monooxygenase, calponin and LIM domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24693]	182	0.32006344199180603	0.3843322	Yes	
-row_18	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	183	0.3164001405239105	0.4211045	Yes	
-row_19	SULF1	sulfatase 1 [Source:HGNC Symbol;Acc:HGNC:20391]	200	0.26434779167175293	0.3986711	No	
+row_0	MFAP2	microfibril associated protein 2 [Source:HGNC Symbol;Acc:HGNC:7033]	5	0.7410611510276794	0.07102103	Yes	
+row_1	FBN2	fibrillin 2 [Source:HGNC Symbol;Acc:HGNC:3604]	8	0.722037672996521	0.14889458	Yes	
+row_2	LRRC17	leucine rich repeat containing 17 [Source:HGNC Symbol;Acc:HGNC:16895]	34	0.5859858393669128	0.14146966	Yes	
+row_3	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	49	0.5363436937332153	0.1615079	Yes	
+row_4	CCN4	cellular communication network factor 4 [Source:HGNC Symbol;Acc:HGNC:12769]	63	0.5062690377235413	0.18107201	Yes	
+row_5	FBLN2	fibulin 2 [Source:HGNC Symbol;Acc:HGNC:3601]	98	0.46831223368644714	0.13278063	Yes	
+row_6	MXRA8	matrix remodeling associated 8 [Source:HGNC Symbol;Acc:HGNC:7542]	116	0.43431153893470764	0.13189717	Yes	
+row_7	MMP1	matrix metallopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:7155]	119	0.43052342534065247	0.17589068	Yes	
+row_8	MMP13	matrix metallopeptidase 13 [Source:HGNC Symbol;Acc:HGNC:7159]	134	0.39747288823127747	0.17978925	Yes	
+row_9	GFPT2	glutamine-fructose-6-phosphate transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4242]	135	0.39719510078430176	0.22595161	Yes	
+row_10	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	144	0.38681912422180176	0.24673888	Yes	
+row_11	MRC2	mannose receptor C type 2 [Source:HGNC Symbol;Acc:HGNC:16875]	159	0.3713046908378601	0.24759616	Yes	
+row_12	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	169	0.35695356130599976	0.26189128	Yes	
+row_13	OLFML1	olfactomedin like 1 [Source:HGNC Symbol;Acc:HGNC:24473]	173	0.3542158305644989	0.2939951	Yes	
+row_14	COMP	cartilage oligomeric matrix protein [Source:HGNC Symbol;Acc:HGNC:2227]	177	0.349396675825119	0.32553884	Yes	
+row_15	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	180	0.344868540763855	0.35957748	Yes	
+row_16	ADGRF5	adhesion G protein-coupled receptor F5 [Source:HGNC Symbol;Acc:HGNC:19030]	191	0.32042446732521057	0.366606	Yes	
+row_17	MICAL2	microtubule associated monooxygenase, calponin and LIM domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24693]	192	0.32006344199180603	0.40380403	Yes	
+row_18	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	193	0.3164001405239105	0.44057634	Yes	
+row_19	SULF1	sulfatase 1 [Source:HGNC Symbol;Acc:HGNC:20391]	211	0.26434779167175293	0.41993955	No	

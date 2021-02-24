@@ -1,0 +1,11 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MIR503HG	MIR503 host gene [Source:HGNC Symbol;Acc:HGNC:28258]	19	0.6474617719650269	0.11270695	Yes	
+row_1	ALDH1L2	aldehyde dehydrogenase 1 family member L2 [Source:HGNC Symbol;Acc:HGNC:26777]	35	0.584394097328186	0.2207382	Yes	
+row_2	GAL	galanin and GMAP prepropeptide [Source:HGNC Symbol;Acc:HGNC:4114]	62	0.5067174434661865	0.2763052	Yes	
+row_3	STC2	stanniocalcin 2 [Source:HGNC Symbol;Acc:HGNC:11374]	65	0.5031096339225769	0.40131494	Yes	
+row_4	SLC38A5	solute carrier family 38 member 5 [Source:HGNC Symbol;Acc:HGNC:18070]	106	0.45550334453582764	0.40250382	Yes	
+row_5	ASS1	argininosuccinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:758]	224	0.16582506895065308	0.1025317	No	
+row_6	ATG2A	autophagy related 2A [Source:HGNC Symbol;Acc:HGNC:29028]	244	-0.19046252965927124	0.0963586	No	
+row_7	MAP2K5	mitogen-activated protein kinase kinase 5 [Source:HGNC Symbol;Acc:HGNC:6845]	246	-0.19547982513904572	0.14427657	No	
+row_8	TBC1D4	TBC1 domain family member 4 [Source:HGNC Symbol;Acc:HGNC:19165]	256	-0.23386181890964508	0.17871852	No	
+row_9	SHISA2	shisa family member 2 [Source:HGNC Symbol;Acc:HGNC:20366]	288	-0.3613889515399933	0.1818182	No	

@@ -1,0 +1,12 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TMEM100	transmembrane protein 100 [Source:HGNC Symbol;Acc:HGNC:25607]	26	0.6185195446014404	0.06546999	No	
+row_1	FZD8	frizzled class receptor 8 [Source:HGNC Symbol;Acc:HGNC:4046]	71	0.4993334412574768	0.050647452	No	
+row_2	ACAN	aggrecan [Source:HGNC Symbol;Acc:HGNC:319]	130	0.4101567268371582	-0.025816225	No	
+row_3	COL7A1	collagen type VII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2214]	161	0.37109240889549255	-0.028891608	No	
+row_4	ALB	albumin [Source:HGNC Symbol;Acc:HGNC:399]	229	0.050247564911842346	-0.21441941	No	
+row_5	HMGCS2	3-hydroxy-3-methylglutaryl-CoA synthase 2 [Source:HGNC Symbol;Acc:HGNC:5008]	250	-0.21145471930503845	-0.22471738	Yes	
+row_6	BAAT	bile acid-CoA:amino acid N-acyltransferase [Source:HGNC Symbol;Acc:HGNC:932]	261	-0.24869444966316223	-0.19705765	Yes	
+row_7	ONECUT1	one cut homeobox 1 [Source:HGNC Symbol;Acc:HGNC:8138]	272	-0.30095192790031433	-0.15740564	Yes	
+row_8	ALDOB	aldolase, fructose-bisphosphate B [Source:HGNC Symbol;Acc:HGNC:417]	273	-0.30121710896492004	-0.08828102	Yes	
+row_9	TMEM238	transmembrane protein 238 [Source:HGNC Symbol;Acc:HGNC:40042]	311	-0.45047831535339355	-0.09372682	Yes	
+row_10	LINC02027	long intergenic non-protein coding RNA 2027 [Source:HGNC Symbol;Acc:HGNC:52862]	349	-0.8954490423202515	0.002941223	Yes	

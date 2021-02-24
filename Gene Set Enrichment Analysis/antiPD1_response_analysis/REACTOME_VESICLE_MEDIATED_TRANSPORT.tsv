@@ -1,0 +1,13 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	COL7A1	collagen type VII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2214]	161	0.37109240889549255	-0.36325812	Yes	
+row_1	AGTR1	angiotensin II receptor type 1 [Source:HGNC Symbol;Acc:HGNC:336]	171	0.3554823100566864	-0.282836	Yes	
+row_2	KIF1A	kinesin family member 1A [Source:HGNC Symbol;Acc:HGNC:888]	179	0.34677672386169434	-0.19913384	Yes	
+row_3	RAB31	RAB31, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9771]	210	0.26717516779899597	-0.20723177	Yes	
+row_4	KIF5A	kinesin family member 5A [Source:HGNC Symbol;Acc:HGNC:6323]	213	0.25880321860313416	-0.13525312	Yes	
+row_5	ALB	albumin [Source:HGNC Symbol;Acc:HGNC:399]	229	0.050247564911842346	-0.16438054	Yes	
+row_6	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	238	-0.16644014418125153	-0.13789463	Yes	
+row_7	AMBP	alpha-1-microglobulin/bikunin precursor [Source:HGNC Symbol;Acc:HGNC:453]	251	-0.2123195230960846	-0.10940224	Yes	
+row_8	TBC1D4	TBC1 domain family member 4 [Source:HGNC Symbol;Acc:HGNC:19165]	256	-0.23386181890964508	-0.050828576	Yes	
+row_9	SAA1	serum amyloid A1 [Source:HGNC Symbol;Acc:HGNC:10513]	259	-0.2406039983034134	0.015673628	Yes	
+row_10	GJB6	gap junction protein beta 6 [Source:HGNC Symbol;Acc:HGNC:4288]	297	-0.39462241530418396	0.02527781	Yes	
+row_11	TUBA3C	tubulin alpha 3c [Source:HGNC Symbol;Acc:HGNC:12408]	305	-0.4257465898990631	0.13274336	Yes	

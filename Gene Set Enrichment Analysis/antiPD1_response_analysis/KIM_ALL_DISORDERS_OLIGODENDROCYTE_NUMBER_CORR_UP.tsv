@@ -1,0 +1,11 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UCHL1	ubiquitin C-terminal hydrolase L1 [Source:HGNC Symbol;Acc:HGNC:12513]	74	0.49821949005126953	-0.0549742	No	
+row_1	FOXG1	forkhead box G1 [Source:HGNC Symbol;Acc:HGNC:3811]	111	0.4494379758834839	-0.0143765155	No	
+row_2	PTGDS	prostaglandin D2 synthase [Source:HGNC Symbol;Acc:HGNC:9592]	186	0.3328162133693695	-0.12314437	Yes	
+row_3	MICAL2	microtubule associated monooxygenase, calponin and LIM domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24693]	192	0.32006344199180603	-0.033713743	Yes	
+row_4	ASS1	argininosuccinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:758]	224	0.16582506895065308	-0.07069199	Yes	
+row_5	RPL27	ribosomal protein L27 [Source:HGNC Symbol;Acc:HGNC:10328]	235	-0.13226549327373505	-0.057001144	Yes	
+row_6	STK24	serine/threonine kinase 24 [Source:HGNC Symbol;Acc:HGNC:11403]	241	-0.17014530301094055	-0.016327992	Yes	
+row_7	CX3CR1	C-X3-C motif chemokine receptor 1 [Source:HGNC Symbol;Acc:HGNC:2558]	263	-0.2551115155220032	0.00505767	Yes	
+row_8	PAK6	p21 (RAC1) activated kinase 6 [Source:HGNC Symbol;Acc:HGNC:16061]	265	-0.2708515524864197	0.090213455	Yes	
+row_9	SULT1A1	sulfotransferase family 1A member 1 [Source:HGNC Symbol;Acc:HGNC:11453]	319	-0.4800358712673187	0.09090903	Yes	

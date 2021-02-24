@@ -1,0 +1,13 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALDH1L2	aldehyde dehydrogenase 1 family member L2 [Source:HGNC Symbol;Acc:HGNC:26777]	35	0.584394097328186	0.009377595	Yes	
+row_1	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	49	0.5363436937332153	0.074391834	Yes	
+row_2	CCN4	cellular communication network factor 4 [Source:HGNC Symbol;Acc:HGNC:12769]	63	0.5062690377235413	0.13361019	Yes	
+row_3	STC2	stanniocalcin 2 [Source:HGNC Symbol;Acc:HGNC:11374]	65	0.5031096339225769	0.22761789	Yes	
+row_4	ADAMTS12	ADAM metallopeptidase with thrombospondin type 1 motif 12 [Source:HGNC Symbol;Acc:HGNC:14605]	88	0.4817555546760559	0.25556344	Yes	
+row_5	LAMA2	laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	109	0.45167556405067444	0.28361174	Yes	
+row_6	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	122	0.42596179246902466	0.33030343	Yes	
+row_7	GFPT2	glutamine-fructose-6-phosphate transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4242]	135	0.39719510078430176	0.37145126	Yes	
+row_8	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	144	0.38681912422180176	0.4223989	Yes	
+row_9	BCAT1	branched chain amino acid transaminase 1 [Source:HGNC Symbol;Acc:HGNC:976]	146	0.38392072916030884	0.49343693	Yes	
+row_10	RAB31	RAB31, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9771]	210	0.26717516779899597	0.35908532	No	
+row_11	SULF1	sulfatase 1 [Source:HGNC Symbol;Acc:HGNC:20391]	211	0.26434779167175293	0.41002953	No	

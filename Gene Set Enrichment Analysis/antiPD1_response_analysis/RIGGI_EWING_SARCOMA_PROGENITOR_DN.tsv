@@ -1,16 +1,16 @@
 NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
-row_0	APCDD1L	APC down-regulated 1 like [Source:HGNC Symbol;Acc:HGNC:26892]	23	0.6259133815765381	0.023327628	Yes	
-row_1	CCN4	cellular communication network factor 4 [Source:HGNC Symbol;Acc:HGNC:12769]	59	0.5062690377235413	-0.011387145	Yes	
-row_2	STC2	stanniocalcin 2 [Source:HGNC Symbol;Acc:HGNC:11374]	61	0.5031096339225769	0.06451204	Yes	
-row_3	OSR1	odd-skipped related transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:8111]	75	0.4886337220668793	0.09891767	Yes	
-row_4	SLC12A8	solute carrier family 12 member 8 [Source:HGNC Symbol;Acc:HGNC:15595]	86	0.47251078486442566	0.14059019	Yes	
-row_5	GLT8D2	glycosyltransferase 8 domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24890]	96	0.4574350118637085	0.18315843	Yes	
-row_6	SVEP1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:15985]	106	0.4417065382003784	0.22325169	Yes	
-row_7	GFPT2	glutamine-fructose-6-phosphate transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4242]	127	0.39719510078430176	0.22039312	Yes	
-row_8	STC1	stanniocalcin 1 [Source:HGNC Symbol;Acc:HGNC:11373]	128	0.3966955840587616	0.28281543	Yes	
-row_9	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	135	0.38681912422180176	0.32407576	Yes	
-row_10	PTGER2	prostaglandin E receptor 2 [Source:HGNC Symbol;Acc:HGNC:9594]	142	0.37741750478744507	0.3638567	Yes	
-row_11	IGF2	insulin like growth factor 2 [Source:HGNC Symbol;Acc:HGNC:5466]	169	0.3475959002971649	0.33358556	Yes	
-row_12	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	171	0.344868540763855	0.3845846	Yes	
-row_13	CEP126	centrosomal protein 126 [Source:HGNC Symbol;Acc:HGNC:29264]	175	0.33443760871887207	0.42740634	Yes	
-row_14	SLIT3	slit guidance ligand 3 [Source:HGNC Symbol;Acc:HGNC:11087]	195	0.2744216322898865	0.40849665	No	
+row_0	APCDD1L	APC down-regulated 1 like [Source:HGNC Symbol;Acc:HGNC:26892]	25	0.6259133815765381	0.024086265	Yes	
+row_1	CCN4	cellular communication network factor 4 [Source:HGNC Symbol;Acc:HGNC:12769]	63	0.5062690377235413	-0.0063684727	Yes	
+row_2	STC2	stanniocalcin 2 [Source:HGNC Symbol;Acc:HGNC:11374]	65	0.5031096339225769	0.0698225	Yes	
+row_3	OSR1	odd-skipped related transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:8111]	81	0.4886337220668793	0.10206893	Yes	
+row_4	SLC12A8	solute carrier family 12 member 8 [Source:HGNC Symbol;Acc:HGNC:15595]	94	0.47251078486442566	0.1407069	Yes	
+row_5	GLT8D2	glycosyltransferase 8 domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24890]	104	0.4574350118637085	0.18590118	Yes	
+row_6	SVEP1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:15985]	114	0.4417065382003784	0.2286205	Yes	
+row_7	GFPT2	glutamine-fructose-6-phosphate transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4242]	135	0.39719510078430176	0.2315976	Yes	
+row_8	STC1	stanniocalcin 1 [Source:HGNC Symbol;Acc:HGNC:11373]	136	0.3966955840587616	0.2940199	Yes	
+row_9	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	144	0.38681912422180176	0.33405474	Yes	
+row_10	PTGER2	prostaglandin E receptor 2 [Source:HGNC Symbol;Acc:HGNC:9594]	151	0.37741750478744507	0.3755864	Yes	
+row_11	IGF2	insulin like growth factor 2 [Source:HGNC Symbol;Acc:HGNC:5466]	178	0.3475959002971649	0.35290164	Yes	
+row_12	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	180	0.344868540763855	0.40419245	Yes	
+row_13	CEP126	centrosomal protein 126 [Source:HGNC Symbol;Acc:HGNC:29264]	184	0.33443760871887207	0.44788954	Yes	
+row_14	SLIT3	slit guidance ligand 3 [Source:HGNC Symbol;Acc:HGNC:11087]	206	0.2744216322898865	0.42857134	No	

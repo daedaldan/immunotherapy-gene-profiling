@@ -1,0 +1,11 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SOD3	superoxide dismutase 3 [Source:HGNC Symbol;Acc:HGNC:11181]	160	0.3711445927619934	-0.341924	Yes	
+row_1	CCNA1	cyclin A1 [Source:HGNC Symbol;Acc:HGNC:1577]	166	0.36244797706604004	-0.23228511	Yes	
+row_2	SOAT2	sterol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:11178]	187	0.33198773860931396	-0.17708082	Yes	
+row_3	ALB	albumin [Source:HGNC Symbol;Acc:HGNC:399]	229	0.050247564911842346	-0.280083	Yes	
+row_4	SLPI	secretory leukocyte peptidase inhibitor [Source:HGNC Symbol;Acc:HGNC:11092]	233	-0.08059406280517578	-0.2612409	Yes	
+row_5	RDH16	retinol dehydrogenase 16 [Source:HGNC Symbol;Acc:HGNC:29674]	254	-0.22454360127449036	-0.2428846	Yes	
+row_6	ADH4	alcohol dehydrogenase 4 (class II), pi polypeptide [Source:HGNC Symbol;Acc:HGNC:252]	262	-0.2537074387073517	-0.17640342	Yes	
+row_7	ALDOB	aldolase, fructose-bisphosphate B [Source:HGNC Symbol;Acc:HGNC:417]	273	-0.30121710896492004	-0.1024264	Yes	
+row_8	FABP7	fatty acid binding protein 7 [Source:HGNC Symbol;Acc:HGNC:3562]	284	-0.3524987995624542	-0.010862319	Yes	
+row_9	USP2	ubiquitin specific peptidase 2 [Source:HGNC Symbol;Acc:HGNC:12618]	331	-0.5874849557876587	0.055718504	Yes	

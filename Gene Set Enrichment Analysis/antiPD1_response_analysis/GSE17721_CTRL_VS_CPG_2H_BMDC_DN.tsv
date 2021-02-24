@@ -1,0 +1,11 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CILP2	cartilage intermediate layer protein 2 [Source:HGNC Symbol;Acc:HGNC:24213]	3	0.764146089553833	0.13051634	Yes	
+row_1	FOXL1	forkhead box L1 [Source:HGNC Symbol;Acc:HGNC:3817]	18	0.6517524123191833	0.20828375	Yes	
+row_2	TMEM100	transmembrane protein 100 [Source:HGNC Symbol;Acc:HGNC:25607]	26	0.6185195446014404	0.30052024	Yes	
+row_3	CYS1	cystin 1 [Source:HGNC Symbol;Acc:HGNC:18525]	28	0.5986654758453369	0.40673235	Yes	
+row_4	HES7	hes family bHLH transcription factor 7 [Source:HGNC Symbol;Acc:HGNC:15977]	32	0.5945408940315247	0.5063274	Yes	
+row_5	FHL5	four and a half LIM domains 5 [Source:HGNC Symbol;Acc:HGNC:17371]	37	0.5810227990150452	0.6005254	Yes	
+row_6	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	103	0.4587521255016327	0.49354616	No	
+row_7	MMP1	matrix metallopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:7155]	119	0.43052342534065247	0.52804804	No	
+row_8	WNT7B	Wnt family member 7B [Source:HGNC Symbol;Acc:HGNC:12787]	129	0.4128963053226471	0.57693154	No	
+row_9	NEURL1	neuralized E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:7761]	155	0.3742441236972809	0.57184744	No	

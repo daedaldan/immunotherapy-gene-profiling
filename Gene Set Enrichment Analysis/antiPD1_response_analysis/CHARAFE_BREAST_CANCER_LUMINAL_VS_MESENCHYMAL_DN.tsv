@@ -1,0 +1,14 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	APCDD1L	APC down-regulated 1 like [Source:HGNC Symbol;Acc:HGNC:26892]	25	0.6259133815765381	0.034284532	Yes	
+row_1	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	49	0.5363436937332153	0.05899553	Yes	
+row_2	CLMP	CXADR like membrane protein [Source:HGNC Symbol;Acc:HGNC:24039]	50	0.5343773365020752	0.1514138	Yes	
+row_3	DKK3	dickkopf WNT signaling pathway inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:2893]	55	0.5188071131706238	0.22930492	Yes	
+row_4	LAYN	layilin [Source:HGNC Symbol;Acc:HGNC:29471]	70	0.4995553195476532	0.27428076	Yes	
+row_5	ADAMTS12	ADAM metallopeptidase with thrombospondin type 1 motif 12 [Source:HGNC Symbol;Acc:HGNC:14605]	88	0.4817555546760559	0.30730245	Yes	
+row_6	COL13A1	collagen type XIII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2190]	128	0.41313087940216064	0.26336703	Yes	
+row_7	GFPT2	glutamine-fructose-6-phosphate transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4242]	135	0.39719510078430176	0.31430873	Yes	
+row_8	PXDN	peroxidasin [Source:HGNC Symbol;Acc:HGNC:14966]	137	0.39572954177856445	0.3797899	Yes	
+row_9	BCAT1	branched chain amino acid transaminase 1 [Source:HGNC Symbol;Acc:HGNC:976]	146	0.38392072916030884	0.42251867	Yes	
+row_10	MRC2	mannose receptor C type 2 [Source:HGNC Symbol;Acc:HGNC:16875]	159	0.3713046908378601	0.45123127	Yes	
+row_11	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	169	0.35695356130599976	0.48633763	Yes	
+row_12	RAB31	RAB31, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9771]	210	0.26717516779899597	0.41420123	No	

@@ -1,0 +1,13 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OMD	osteomodulin [Source:HGNC Symbol;Acc:HGNC:8134]	95	0.4707562327384949	-0.13873202	No	
+row_1	CABCOCO1	ciliary associated calcium binding coiled-coil 1 [Source:HGNC Symbol;Acc:HGNC:28678]	132	0.4045847952365875	-0.1233131	No	
+row_2	NKX2-5	NK2 homeobox 5 [Source:HGNC Symbol;Acc:HGNC:2488]	165	0.3624497652053833	-0.1087601	No	
+row_3	TTR	transthyretin [Source:HGNC Symbol;Acc:HGNC:12405]	242	-0.1806749850511551	-0.27864003	Yes	
+row_4	PLG	plasminogen [Source:HGNC Symbol;Acc:HGNC:9071]	243	-0.18169789016246796	-0.22402371	Yes	
+row_5	AHSG	alpha 2-HS glycoprotein [Source:HGNC Symbol;Acc:HGNC:349]	247	-0.19736860692501068	-0.17354651	Yes	
+row_6	AMBP	alpha-1-microglobulin/bikunin precursor [Source:HGNC Symbol;Acc:HGNC:453]	251	-0.2123195230960846	-0.11857523	Yes	
+row_7	RDH16	retinol dehydrogenase 16 [Source:HGNC Symbol;Acc:HGNC:29674]	254	-0.22454360127449036	-0.056979675	Yes	
+row_8	ITIH1	inter-alpha-trypsin inhibitor heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:6166]	260	-0.24555377662181854	0.0020817444	Yes	
+row_9	BAAT	bile acid-CoA:amino acid N-acyltransferase [Source:HGNC Symbol;Acc:HGNC:932]	261	-0.24869444966316223	0.076836474	Yes	
+row_10	ESRP2	epithelial splicing regulatory protein 2 [Source:HGNC Symbol;Acc:HGNC:26152]	271	-0.29694467782974243	0.139546	Yes	
+row_11	ALDOB	aldolase, fructose-bisphosphate B [Source:HGNC Symbol;Acc:HGNC:417]	273	-0.30121710896492004	0.2271386	Yes	

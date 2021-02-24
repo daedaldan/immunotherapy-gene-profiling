@@ -1,0 +1,14 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NMU	neuromedin U [Source:HGNC Symbol;Acc:HGNC:7859]	72	0.49848344922065735	-0.0956844	No	
+row_1	COL7A1	collagen type VII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2214]	161	0.37109240889549255	-0.26869148	No	
+row_2	ASS1	argininosuccinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:758]	224	0.16582506895065308	-0.41309142	Yes	
+row_3	POU2F3	POU class 2 homeobox 3 [Source:HGNC Symbol;Acc:HGNC:19864]	225	0.1557604819536209	-0.37642843	Yes	
+row_4	SLPI	secretory leukocyte peptidase inhibitor [Source:HGNC Symbol;Acc:HGNC:11092]	233	-0.08059406280517578	-0.3781682	Yes	
+row_5	KRT5	keratin 5 [Source:HGNC Symbol;Acc:HGNC:6442]	252	-0.21542078256607056	-0.38071674	Yes	
+row_6	HAL	histidine ammonia-lyase [Source:HGNC Symbol;Acc:HGNC:4806]	255	-0.23370243608951569	-0.3316249	Yes	
+row_7	LTF	lactotransferrin [Source:HGNC Symbol;Acc:HGNC:6720]	264	-0.25800758600234985	-0.29456353	Yes	
+row_8	PAK6	p21 (RAC1) activated kinase 6 [Source:HGNC Symbol;Acc:HGNC:16061]	265	-0.2708515524864197	-0.23081033	Yes	
+row_9	ESRP2	epithelial splicing regulatory protein 2 [Source:HGNC Symbol;Acc:HGNC:26152]	271	-0.29694467782974243	-0.17570819	Yes	
+row_10	IRF6	interferon regulatory factor 6 [Source:HGNC Symbol;Acc:HGNC:6121]	307	-0.44151923060417175	-0.17533341	Yes	
+row_11	LSR	lipolysis stimulated lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:29572]	315	-0.45429423451423645	-0.0891114	Yes	
+row_12	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	347	-0.8059419393539429	0.008875738	Yes	

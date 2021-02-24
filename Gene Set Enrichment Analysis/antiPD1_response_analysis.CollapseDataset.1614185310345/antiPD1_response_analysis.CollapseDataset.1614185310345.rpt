@@ -1,0 +1,14 @@
+producer_class	xtools.munge.CollapseDataset
+producer_timestamp	1614185310345
+param	mode	Max_probe
+param	rpt_label	antiPD1_response_analysis
+param	include_only_symbols	true
+param	res	/Users/danielwang/Documents/immunotherapy-gene-profiling/Gene Set Enrichment Analysis/GSEA_formatted_DGE_counts.txt
+param	help	false
+param	chip	ftp.broadinstitute.org://pub/gsea/annotations_versioned/Human_ENSEMBL_Gene_ID_MSigDB.v7.2.chip
+param	gui	false
+param	out	/Users/danielwang/Documents/immunotherapy-gene-profiling/Gene Set Enrichment Analysis
+
+file	/Users/danielwang/Documents/immunotherapy-gene-profiling/Gene Set Enrichment Analysis/antiPD1_response_analysis.CollapseDataset.1614185310345/GSEA_formatted_DGE_counts_collapsed_to_symbols.gct
+file	/Users/danielwang/Documents/immunotherapy-gene-profiling/Gene Set Enrichment Analysis/antiPD1_response_analysis.CollapseDataset.1614185310345/Symbol_to_probe_set_mapping_details.tsv
+file	/Users/danielwang/Documents/immunotherapy-gene-profiling/Gene Set Enrichment Analysis/antiPD1_response_analysis.CollapseDataset.1614185310345/index.html
