@@ -1,0 +1,1 @@
+Note: Standard GSEA results are from expression dataset that is not normalized by gene length, i.e. the inputs are only normalized counts but not TPM/FPKM.
