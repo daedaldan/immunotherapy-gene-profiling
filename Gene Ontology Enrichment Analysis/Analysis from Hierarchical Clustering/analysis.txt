@@ -1,0 +1,86 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4437524 Released 2021-01-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Homo sapiens - REFLIST (20595)	upload_1 (174)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+keratan sulfate catabolic process (GO:0042340)	12	5	.10	+	49.32	2.22E-07	2.34E-04
+keratan sulfate biosynthetic process (GO:0018146)	28	5	.24	+	21.14	7.65E-06	4.82E-03
+keratan sulfate metabolic process (GO:0042339)	33	5	.28	+	17.93	1.56E-05	8.81E-03
+collagen catabolic process (GO:0030574)	43	5	.36	+	13.76	4.98E-05	1.97E-02
+sulfur compound catabolic process (GO:0044273)	55	6	.46	+	12.91	1.20E-05	7.29E-03
+positive regulation of biomineralization (GO:0110151)	49	5	.41	+	12.08	8.84E-05	2.68E-02
+glycosaminoglycan catabolic process (GO:0006027)	62	6	.52	+	11.45	2.26E-05	1.19E-02
+glomerulus development (GO:0032835)	52	5	.44	+	11.38	1.15E-04	3.07E-02
+aminoglycan catabolic process (GO:0006026)	68	6	.57	+	10.44	3.67E-05	1.70E-02
+collagen fibril organization (GO:0030199)	103	9	.87	+	10.34	4.33E-07	4.27E-04
+collagen metabolic process (GO:0032963)	61	5	.52	+	9.70	2.30E-04	4.91E-02
+regulation of bone mineralization (GO:0030500)	75	6	.63	+	9.47	6.12E-05	2.10E-02
+regulation of biomineralization (GO:0110149)	95	7	.80	+	8.72	2.43E-05	1.24E-02
+extracellular matrix organization (GO:0030198)	382	27	3.23	+	8.37	9.13E-17	1.44E-12
+proteoglycan metabolic process (GO:0006029)	85	6	.72	+	8.35	1.17E-04	3.08E-02
+extracellular structure organization (GO:0043062)	383	27	3.24	+	8.34	9.70E-17	7.65E-13
+external encapsulating structure organization (GO:0045229)	385	27	3.25	+	8.30	1.10E-16	5.76E-13
+glycosaminoglycan biosynthetic process (GO:0006024)	100	7	.84	+	8.29	3.31E-05	1.58E-02
+roof of mouth development (GO:0060021)	88	6	.74	+	8.07	1.40E-04	3.46E-02
+regulation of osteoblast differentiation (GO:0045667)	120	8	1.01	+	7.89	1.26E-05	7.34E-03
+aminoglycan biosynthetic process (GO:0006023)	107	7	.90	+	7.74	4.97E-05	2.01E-02
+nephron development (GO:0072006)	124	8	1.05	+	7.64	1.57E-05	8.56E-03
+regulation of biomineral tissue development (GO:0070167)	93	6	.79	+	7.64	1.87E-04	4.21E-02
+regulation of ossification (GO:0030278)	115	7	.97	+	7.20	7.66E-05	2.42E-02
+regulation of transforming growth factor beta receptor signaling pathway (GO:0017015)	121	7	1.02	+	6.85	1.04E-04	2.97E-02
+regulation of cellular response to transforming growth factor beta stimulus (GO:1903844)	124	7	1.05	+	6.68	1.20E-04	3.10E-02
+cartilage development (GO:0051216)	154	8	1.30	+	6.15	6.82E-05	2.29E-02
+skeletal system morphogenesis (GO:0048705)	224	11	1.89	+	5.81	4.91E-06	3.23E-03
+bone development (GO:0060348)	184	9	1.55	+	5.79	3.75E-05	1.64E-02
+skeletal system development (GO:0001501)	471	23	3.98	+	5.78	2.83E-11	4.46E-08
+limb development (GO:0060173)	175	8	1.48	+	5.41	1.59E-04	3.80E-02
+appendage development (GO:0048736)	175	8	1.48	+	5.41	1.59E-04	3.75E-02
+connective tissue development (GO:0061448)	202	9	1.71	+	5.27	7.48E-05	2.41E-02
+ossification (GO:0001503)	262	10	2.21	+	4.52	1.03E-04	3.01E-02
+kidney development (GO:0001822)	279	10	2.36	+	4.24	1.69E-04	3.87E-02
+renal system development (GO:0072001)	288	10	2.43	+	4.11	2.17E-04	4.74E-02
+animal organ morphogenesis (GO:0009887)	945	28	7.98	+	3.51	1.05E-08	1.38E-05
+cell adhesion (GO:0007155)	951	28	8.03	+	3.48	1.20E-08	1.46E-05
+biological adhesion (GO:0022610)	957	28	8.09	+	3.46	1.37E-08	1.54E-05
+supramolecular fiber organization (GO:0097435)	596	16	5.04	+	3.18	5.96E-05	2.09E-02
+embryonic morphogenesis (GO:0048598)	561	15	4.74	+	3.16	1.07E-04	2.95E-02
+tissue morphogenesis (GO:0048729)	532	14	4.49	+	3.11	2.13E-04	4.73E-02
+regulation of system process (GO:0044057)	583	15	4.93	+	3.05	1.61E-04	3.72E-02
+negative regulation of cell differentiation (GO:0045596)	638	16	5.39	+	2.97	1.29E-04	3.28E-02
+anatomical structure morphogenesis (GO:0009653)	2134	53	18.03	+	2.94	4.07E-13	1.28E-09
+enzyme linked receptor protein signaling pathway (GO:0007167)	726	18	6.13	+	2.93	5.56E-05	2.09E-02
+embryo development (GO:0009790)	971	24	8.20	+	2.93	3.07E-06	2.11E-03
+cell morphogenesis (GO:0000902)	711	17	6.01	+	2.83	1.38E-04	3.46E-02
+tube development (GO:0035295)	840	20	7.10	+	2.82	3.67E-05	1.65E-02
+anatomical structure formation involved in morphogenesis (GO:0048646)	869	20	7.34	+	2.72	5.81E-05	2.13E-02
+negative regulation of developmental process (GO:0051093)	870	20	7.35	+	2.72	5.91E-05	2.12E-02
+regulation of multicellular organismal development (GO:2000026)	1318	30	11.14	+	2.69	8.27E-07	6.52E-04
+tissue development (GO:0009888)	1731	36	14.62	+	2.46	6.39E-07	5.30E-04
+positive regulation of multicellular organismal process (GO:0051240)	1386	27	11.71	+	2.31	5.30E-05	2.04E-02
+cell development (GO:0048468)	1615	31	13.64	+	2.27	2.50E-05	1.23E-02
+regulation of cell differentiation (GO:0045595)	1576	30	13.32	+	2.25	3.89E-05	1.66E-02
+neurogenesis (GO:0022008)	1369	26	11.57	+	2.25	1.07E-04	2.92E-02
+animal organ development (GO:0048513)	3186	59	26.92	+	2.19	2.59E-09	3.71E-06
+response to endogenous stimulus (GO:0009719)	1416	26	11.96	+	2.17	2.22E-04	4.80E-02
+system development (GO:0048731)	4275	77	36.12	+	2.13	6.36E-12	1.25E-08
+regulation of multicellular organismal process (GO:0051239)	2647	47	22.36	+	2.10	6.20E-07	5.44E-04
+regulation of developmental process (GO:0050793)	2441	43	20.62	+	2.09	2.86E-06	2.05E-03
+multicellular organism development (GO:0007275)	4875	85	41.19	+	2.06	6.90E-13	1.81E-09
+anatomical structure development (GO:0048856)	5264	88	44.47	+	1.98	2.61E-12	5.89E-09
+developmental process (GO:0032502)	5733	95	48.44	+	1.96	2.03E-13	8.00E-10
+nervous system development (GO:0007399)	2189	36	18.49	+	1.95	1.04E-04	2.92E-02
+cell differentiation (GO:0030154)	3512	57	29.67	+	1.92	4.87E-07	4.52E-04
+cellular developmental process (GO:0048869)	3565	57	30.12	+	1.89	9.25E-07	6.95E-04
+multicellular organismal process (GO:0032501)	6908	102	58.36	+	1.75	2.44E-11	4.27E-08
+negative regulation of cellular process (GO:0048523)	4912	64	41.50	+	1.54	1.58E-04	3.84E-02
+cellular nitrogen compound metabolic process (GO:0034641)	3407	11	28.78	-	.38	8.36E-05	2.59E-02
+organic cyclic compound metabolic process (GO:1901360)	3190	9	26.95	-	.33	4.80E-05	1.99E-02
+heterocycle metabolic process (GO:0046483)	2904	8	24.53	-	.33	9.91E-05	2.95E-02
+cellular aromatic compound metabolic process (GO:0006725)	2949	8	24.92	-	.32	6.94E-05	2.28E-02

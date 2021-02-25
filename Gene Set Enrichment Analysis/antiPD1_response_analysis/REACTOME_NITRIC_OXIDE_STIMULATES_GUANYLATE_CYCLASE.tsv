@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IRAG1	inositol 1,4,5-triphosphate receptor associated 1 [Source:HGNC Symbol;Acc:HGNC:7237]	77	0.5854979753494263	0.09072388	Yes	
+row_1	KCNMA1	potassium calcium-activated channel subfamily M alpha 1 [Source:HGNC Symbol;Acc:HGNC:6284]	104	0.5616326332092285	0.17913422	Yes	
+row_2	GUCY1A1	guanylate cyclase 1 soluble subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:4685]	122	0.5506500005722046	0.26606134	Yes	
+row_3	GUCY1B1	guanylate cyclase 1 soluble subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4687]	238	0.5067940950393677	0.34319133	Yes	
+row_4	GUCY1A2	guanylate cyclase 1 soluble subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:4684]	668	0.4284296929836273	0.39879778	Yes	
+row_5	PDE2A	phosphodiesterase 2A [Source:HGNC Symbol;Acc:HGNC:8777]	678	0.42693614959716797	0.466316	Yes	
+row_6	PDE1B	phosphodiesterase 1B [Source:HGNC Symbol;Acc:HGNC:8775]	953	0.3978066146373749	0.5215444	Yes	
+row_7	PRKG1	protein kinase cGMP-dependent 1 [Source:HGNC Symbol;Acc:HGNC:9414]	1749	0.3410584330558777	0.55269325	Yes	
+row_8	KCNMB1	potassium calcium-activated channel subfamily M regulatory beta subunit 1 [Source:HGNC Symbol;Acc:HGNC:6285]	1932	0.33158445358276367	0.60006964	Yes	
+row_9	NOS1	nitric oxide synthase 1 [Source:HGNC Symbol;Acc:HGNC:7872]	2159	0.3202053904533386	0.6443668	Yes	
+row_10	KCNMB2	potassium calcium-activated channel subfamily M regulatory beta subunit 2 [Source:HGNC Symbol;Acc:HGNC:6286]	3567	0.276660293340683	0.6475894	Yes	
+row_11	PDE5A	phosphodiesterase 5A [Source:HGNC Symbol;Acc:HGNC:8784]	3628	0.27503201365470886	0.6895167	Yes	
+row_12	NOS2	nitric oxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:7873]	5383	0.2291179597377777	0.6751544	No	
+row_13	NOS3	nitric oxide synthase 3 [Source:HGNC Symbol;Acc:HGNC:7876]	9492	0.14547106623649597	0.5794208	No	
+row_14	PDE9A	phosphodiesterase 9A [Source:HGNC Symbol;Acc:HGNC:8795]	14965	0.0366976223886013	0.4269638	No	
+row_15	PDE11A	phosphodiesterase 11A [Source:HGNC Symbol;Acc:HGNC:8773]	17061	-0.0021448011975735426	0.36670437	No	
+row_16	KCNMB4	potassium calcium-activated channel subfamily M regulatory beta subunit 4 [Source:HGNC Symbol;Acc:HGNC:6289]	17989	-0.01985037885606289	0.34304136	No	
+row_17	KCNMB3	potassium calcium-activated channel subfamily M regulatory beta subunit 3 [Source:HGNC Symbol;Acc:HGNC:6287]	18102	-0.021994641050696373	0.34329343	No	
+row_18	ITPR1	inositol 1,4,5-trisphosphate receptor type 1 [Source:HGNC Symbol;Acc:HGNC:6180]	22026	-0.0994018092751503	0.24559742	No	
+row_19	PDE10A	phosphodiesterase 10A [Source:HGNC Symbol;Acc:HGNC:8772]	24353	-0.14091373980045319	0.20068647	No	
+row_20	PDE1A	phosphodiesterase 1A [Source:HGNC Symbol;Acc:HGNC:8774]	25991	-0.16876639425754547	0.18012728	No	
+row_21	PRKG2	protein kinase cGMP-dependent 2 [Source:HGNC Symbol;Acc:HGNC:9416]	33990	-0.432338148355484	0.017413469	No	

@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IGLV2-14	immunoglobulin lambda variable 2-14 [Source:HGNC Symbol;Acc:HGNC:5888]	4451	0.25320157408714294	-0.08731481	No	
+row_1	COA1	cytochrome c oxidase assembly factor 1 homolog [Source:HGNC Symbol;Acc:HGNC:21868]	7028	0.19212882220745087	-0.13038017	No	
+row_2	FSCN2	fascin actin-bundling protein 2, retinal [Source:HGNC Symbol;Acc:HGNC:3960]	7139	0.1895752102136612	-0.10250966	No	
+row_3	SRSF8	serine and arginine rich splicing factor 8 [Source:HGNC Symbol;Acc:HGNC:16988]	7169	0.1886240839958191	-0.072451204	No	
+row_4	CDH2	cadherin 2 [Source:HGNC Symbol;Acc:HGNC:1759]	11662	0.10177358239889145	-0.18575703	No	
+row_5	MRPL28	mitochondrial ribosomal protein L28 [Source:HGNC Symbol;Acc:HGNC:14484]	11899	0.09667272865772247	-0.17675024	No	
+row_6	SRSF6	serine and arginine rich splicing factor 6 [Source:HGNC Symbol;Acc:HGNC:10788]	13760	0.06056249141693115	-0.22064924	No	
+row_7	TNFRSF10B	TNF receptor superfamily member 10b [Source:HGNC Symbol;Acc:HGNC:11905]	13908	0.057673972100019455	-0.21545543	No	
+row_8	DDX17	DEAD-box helicase 17 [Source:HGNC Symbol;Acc:HGNC:2740]	14043	0.054595623165369034	-0.2103897	No	
+row_9	PIM2	Pim-2 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:8987]	14826	0.03939014673233032	-0.22656472	No	
+row_10	NKTR	natural killer cell triggering receptor [Source:HGNC Symbol;Acc:HGNC:7833]	15686	0.023094920441508293	-0.24763697	No	
+row_11	CCNG2	cyclin G2 [Source:HGNC Symbol;Acc:HGNC:1593]	16925	4.96626365929842E-4	-0.28337738	No	
+row_12	NR2C1	nuclear receptor subfamily 2 group C member 1 [Source:HGNC Symbol;Acc:HGNC:7971]	17320	-0.007253673393279314	-0.29358965	No	
+row_13	SEC62	SEC62 homolog, preprotein translocation factor [Source:HGNC Symbol;Acc:HGNC:11846]	18462	-0.028855103999376297	-0.32187808	No	
+row_14	BTN3A3	butyrophilin subfamily 3 member A3 [Source:HGNC Symbol;Acc:HGNC:1140]	19179	-0.043091896921396255	-0.33553702	No	
+row_15	SEC24A	SEC24 homolog A, COPII coat complex component [Source:HGNC Symbol;Acc:HGNC:10703]	19407	-0.047719113528728485	-0.33428866	No	
+row_16	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	19734	-0.054501116275787354	-0.33479398	No	
+row_17	CD2AP	CD2 associated protein [Source:HGNC Symbol;Acc:HGNC:14258]	22179	-0.10242334008216858	-0.3887341	No	
+row_18	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	22284	-0.10438493639230728	-0.37464458	No	
+row_19	MYB	MYB proto-oncogene, transcription factor [Source:HGNC Symbol;Acc:HGNC:7545]	22299	-0.10471189022064209	-0.35789734	No	
+row_20	FBXO21	F-box protein 21 [Source:HGNC Symbol;Acc:HGNC:13592]	23426	-0.12448331713676453	-0.37008736	No	
+row_21	PPT2	palmitoyl-protein thioesterase 2 [Source:HGNC Symbol;Acc:HGNC:9326]	24842	-0.14796499907970428	-0.38679323	No	
+row_22	TBC1D5	TBC1 domain family member 5 [Source:HGNC Symbol;Acc:HGNC:19166]	26312	-0.17593196034431458	-0.40048048	No	
+row_23	ACOX1	acyl-CoA oxidase 1 [Source:HGNC Symbol;Acc:HGNC:119]	28776	-0.22718098759651184	-0.43453443	No	
+row_24	CDK8	cyclin dependent kinase 8 [Source:HGNC Symbol;Acc:HGNC:1779]	29850	-0.2504483759403229	-0.42455718	No	
+row_25	RXRB	retinoid X receptor beta [Source:HGNC Symbol;Acc:HGNC:10478]	32466	-0.32069161534309387	-0.44769177	Yes	
+row_26	CCNG1	cyclin G1 [Source:HGNC Symbol;Acc:HGNC:1592]	32503	-0.32233723998069763	-0.39593297	Yes	
+row_27	VPS52	VPS52 subunit of GARP complex [Source:HGNC Symbol;Acc:HGNC:10518]	32998	-0.3467043936252594	-0.353435	Yes	
+row_28	VTI1B	vesicle transport through interaction with t-SNAREs 1B [Source:HGNC Symbol;Acc:HGNC:17793]	33285	-0.36567556858062744	-0.30181098	Yes	
+row_29	RGL2	ral guanine nucleotide dissociation stimulator like 2 [Source:HGNC Symbol;Acc:HGNC:9769]	33314	-0.3675715923309326	-0.24241106	Yes	
+row_30	ZFYVE26	zinc finger FYVE-type containing 26 [Source:HGNC Symbol;Acc:HGNC:20761]	33947	-0.4263531267642975	-0.1908593	Yes	
+row_31	PREP	prolyl endopeptidase [Source:HGNC Symbol;Acc:HGNC:9358]	34525	-0.6010543704032898	-0.10909916	Yes	
+row_32	DDR1	discoidin domain receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:2730]	34564	-0.6776889562606812	8.101916E-4	Yes	

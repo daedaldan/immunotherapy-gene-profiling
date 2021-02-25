@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	12124	0.09217663109302521	-0.31739783	No	
+row_1	MAP2K6	mitogen-activated protein kinase kinase 6 [Source:HGNC Symbol;Acc:HGNC:6846]	12724	0.08020114153623581	-0.3057918	No	
+row_2	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	15012	0.03565264493227005	-0.35907528	No	
+row_3	CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	15049	0.03482247516512871	-0.34755528	No	
+row_4	PIK3CG	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:8978]	16174	0.014165977016091347	-0.37495342	No	
+row_5	MAP2K2	mitogen-activated protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6842]	18536	-0.03030756674706936	-0.43230522	No	
+row_6	SP1	Sp1 transcription factor [Source:HGNC Symbol;Acc:HGNC:11205]	19597	-0.051469266414642334	-0.4443963	No	
+row_7	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	20562	-0.06981469690799713	-0.4470933	No	
+row_8	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	20946	-0.07801643759012222	-0.43002823	No	
+row_9	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	27708	-0.20424096286296844	-0.55189455	Yes	
+row_10	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	27896	-0.20827291905879974	-0.4821746	Yes	
+row_11	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	28012	-0.21084171533584595	-0.40944564	Yes	
+row_12	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	28261	-0.2163344770669937	-0.33858195	Yes	
+row_13	MAP2K3	mitogen-activated protein kinase kinase 3 [Source:HGNC Symbol;Acc:HGNC:6843]	29223	-0.2373642772436142	-0.2807536	Yes	
+row_14	MAP3K1	mitogen-activated protein kinase kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6848]	33166	-0.3564404547214508	-0.26618794	Yes	
+row_15	RB1	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	33897	-0.42121443152427673	-0.13536012	Yes	
+row_16	RELA	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	33977	-0.43089234828948975	0.01778681	Yes	

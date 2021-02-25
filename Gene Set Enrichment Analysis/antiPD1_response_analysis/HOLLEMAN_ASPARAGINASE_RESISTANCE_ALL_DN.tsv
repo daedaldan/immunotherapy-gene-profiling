@@ -1,0 +1,27 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HSPA13	heat shock protein family A (Hsp70) member 13 [Source:HGNC Symbol;Acc:HGNC:11375]	2723	0.2991656959056854	-0.021610303	No	
+row_1	PPIA	peptidylprolyl isomerase A [Source:HGNC Symbol;Acc:HGNC:9253]	6142	0.21011434495449066	-0.08034232	No	
+row_2	MRPL15	mitochondrial ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:14054]	6642	0.19948427379131317	-0.056660824	No	
+row_3	F8A1	coagulation factor VIII associated 1 [Source:HGNC Symbol;Acc:HGNC:3547]	6679	0.19850508868694305	-0.019772148	No	
+row_4	DEDD	death effector domain containing [Source:HGNC Symbol;Acc:HGNC:2755]	9744	0.1404626965522766	-0.081572145	No	
+row_5	DERL2	derlin 2 [Source:HGNC Symbol;Acc:HGNC:17943]	13412	0.06703159958124161	-0.17484766	No	
+row_6	ARRB2	arrestin beta 2 [Source:HGNC Symbol;Acc:HGNC:712]	16327	0.010892472229897976	-0.2570664	No	
+row_7	CCNG2	cyclin G2 [Source:HGNC Symbol;Acc:HGNC:1593]	16925	4.96626365929842E-4	-0.2742423	No	
+row_8	MCUB	mitochondrial calcium uniporter dominant negative subunit beta [Source:HGNC Symbol;Acc:HGNC:26076]	17604	-0.012560689821839333	-0.2914563	No	
+row_9	RESF1	retroelement silencing factor 1 [Source:HGNC Symbol;Acc:HGNC:25559]	18778	-0.035188864916563034	-0.31866655	No	
+row_10	MARCKS	myristoylated alanine rich protein kinase C substrate [Source:HGNC Symbol;Acc:HGNC:6759]	21131	-0.08174947649240494	-0.37108773	No	
+row_11	SNRPG	small nuclear ribonucleoprotein polypeptide G [Source:HGNC Symbol;Acc:HGNC:11163]	21504	-0.08883240073919296	-0.36487544	No	
+row_12	ZNF318	zinc finger protein 318 [Source:HGNC Symbol;Acc:HGNC:13578]	21797	-0.09465847164392471	-0.35523558	No	
+row_13	RAB5C	RAB5C, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9785]	23896	-0.1320224106311798	-0.3907026	No	
+row_14	ARF6	ADP ribosylation factor 6 [Source:HGNC Symbol;Acc:HGNC:659]	25711	-0.16439515352249146	-0.41176796	No	
+row_15	SUMO2	small ubiquitin like modifier 2 [Source:HGNC Symbol;Acc:HGNC:11125]	26118	-0.17129187285900116	-0.39078298	No	
+row_16	MED28	mediator complex subunit 28 [Source:HGNC Symbol;Acc:HGNC:24628]	30254	-0.2567928433418274	-0.46133807	Yes	
+row_17	CCNI	cyclin I [Source:HGNC Symbol;Acc:HGNC:1595]	30942	-0.26680389046669006	-0.43023193	Yes	
+row_18	UBE2Z	ubiquitin conjugating enzyme E2 Z [Source:HGNC Symbol;Acc:HGNC:25847]	31406	-0.2800295352935791	-0.39011845	Yes	
+row_19	CMC4	C-X9-C motif containing 4 [Source:HGNC Symbol;Acc:HGNC:35428]	31440	-0.2809339463710785	-0.3373926	Yes	
+row_20	MAPK1IP1L	mitogen-activated protein kinase 1 interacting protein 1 like [Source:HGNC Symbol;Acc:HGNC:19840]	31966	-0.2999095022678375	-0.2952741	Yes	
+row_21	HNRNPF	heterogeneous nuclear ribonucleoprotein F [Source:HGNC Symbol;Acc:HGNC:5039]	32057	-0.3034520447254181	-0.23989446	Yes	
+row_22	MAD2L1BP	MAD2L1 binding protein [Source:HGNC Symbol;Acc:HGNC:21059]	32544	-0.32391053438186646	-0.19206165	Yes	
+row_23	PSME3	proteasome activator subunit 3 [Source:HGNC Symbol;Acc:HGNC:9570]	33885	-0.42031997442245483	-0.15051267	Yes	
+row_24	RCHY1	ring finger and CHY zinc finger domain containing 1 [Source:HGNC Symbol;Acc:HGNC:17479]	33989	-0.432147741317749	-0.070918076	Yes	
+row_25	ZNHIT3	zinc finger HIT-type containing 3 [Source:HGNC Symbol;Acc:HGNC:12309]	34164	-0.46228858828544617	0.0123818135	Yes	

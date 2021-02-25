@@ -1,0 +1,51 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ST6GALNAC4	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:17846]	4350	0.25622713565826416	-0.09573526	No	
+row_1	VHL	von Hippel-Lindau tumor suppressor [Source:HGNC Symbol;Acc:HGNC:12687]	4981	0.23875638842582703	-0.08583747	No	
+row_2	CTSL	cathepsin L [Source:HGNC Symbol;Acc:HGNC:2537]	5595	0.22404029965400696	-0.077181734	No	
+row_3	DDX5	DEAD-box helicase 5 [Source:HGNC Symbol;Acc:HGNC:2746]	7679	0.1805734485387802	-0.11620395	No	
+row_4	CHMP4A	charged multivesicular body protein 4A [Source:HGNC Symbol;Acc:HGNC:20274]	10077	0.13494716584682465	-0.16969305	No	
+row_5	CHMP4B	charged multivesicular body protein 4B [Source:HGNC Symbol;Acc:HGNC:16171]	10754	0.1217312216758728	-0.17491761	No	
+row_6	GSK3A	glycogen synthase kinase 3 alpha [Source:HGNC Symbol;Acc:HGNC:4616]	11731	0.10071775317192078	-0.1913033	No	
+row_7	SUMO1	small ubiquitin like modifier 1 [Source:HGNC Symbol;Acc:HGNC:12502]	11974	0.0953228622674942	-0.18707587	No	
+row_8	TMPRSS2	transmembrane serine protease 2 [Source:HGNC Symbol;Acc:HGNC:11876]	13085	0.07298985868692398	-0.21060833	No	
+row_9	ST3GAL3	ST3 beta-galactoside alpha-2,3-sialyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:10866]	13464	0.06599775701761246	-0.2137738	No	
+row_10	ST3GAL1	ST3 beta-galactoside alpha-2,3-sialyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10862]	15680	0.0232229083776474	-0.2751601	No	
+row_11	CHMP2A	charged multivesicular body protein 2A [Source:HGNC Symbol;Acc:HGNC:30216]	15844	0.020134611055254936	-0.27750614	No	
+row_12	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	16369	0.010102909989655018	-0.29148507	No	
+row_13	VCP	valosin containing protein [Source:HGNC Symbol;Acc:HGNC:12666]	16970	-4.0641039959155023E-4	-0.30880684	No	
+row_14	ST3GAL2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:10863]	17286	-0.006619773805141449	-0.3171458	No	
+row_15	PARP10	poly(ADP-ribose) polymerase family member 10 [Source:HGNC Symbol;Acc:HGNC:25895]	17294	-0.006790725514292717	-0.3165482	No	
+row_16	PIK3C3	phosphatidylinositol 3-kinase catalytic subunit type 3 [Source:HGNC Symbol;Acc:HGNC:8974]	18279	-0.02571389265358448	-0.3420042	No	
+row_17	GANAB	glucosidase II alpha subunit [Source:HGNC Symbol;Acc:HGNC:4138]	19130	-0.0419708676636219	-0.36166522	No	
+row_18	UBE2I	ubiquitin conjugating enzyme E2 I [Source:HGNC Symbol;Acc:HGNC:12485]	19506	-0.04958033934235573	-0.36667854	No	
+row_19	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	19745	-0.054663196206092834	-0.3671268	No	
+row_20	GALNT1	polypeptide N-acetylgalactosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4123]	19746	-0.054683782160282135	-0.36068264	No	
+row_21	UVRAG	UV radiation resistance associated [Source:HGNC Symbol;Acc:HGNC:12640]	20199	-0.06305450201034546	-0.3663372	No	
+row_22	PARP14	poly(ADP-ribose) polymerase family member 14 [Source:HGNC Symbol;Acc:HGNC:29232]	20284	-0.06445319950580597	-0.36117357	No	
+row_23	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	20595	-0.07028848677873611	-0.36186484	No	
+row_24	MGAT1	alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase [Source:HGNC Symbol;Acc:HGNC:7044]	20762	-0.07381254434585571	-0.3579721	No	
+row_25	MOGS	mannosyl-oligosaccharide glucosidase [Source:HGNC Symbol;Acc:HGNC:24862]	20872	-0.07622109353542328	-0.3521454	No	
+row_26	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	21527	-0.08909600228071213	-0.36057892	No	
+row_27	PARP4	poly(ADP-ribose) polymerase family member 4 [Source:HGNC Symbol;Acc:HGNC:271]	21946	-0.09785232692956924	-0.3611485	No	
+row_28	MAP1LC3B	microtubule associated protein 1 light chain 3 beta [Source:HGNC Symbol;Acc:HGNC:13352]	22340	-0.10557220131158829	-0.36008462	No	
+row_29	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1 [Source:HGNC Symbol;Acc:HGNC:12458]	22384	-0.10627667605876923	-0.34880543	No	
+row_30	CHMP3	charged multivesicular body protein 3 [Source:HGNC Symbol;Acc:HGNC:29865]	24562	-0.1443016231060028	-0.39482328	No	
+row_31	PARP9	poly(ADP-ribose) polymerase family member 9 [Source:HGNC Symbol;Acc:HGNC:24118]	24609	-0.1454673707485199	-0.37901255	No	
+row_32	CHMP7	charged multivesicular body protein 7 [Source:HGNC Symbol;Acc:HGNC:28439]	25411	-0.15797950327396393	-0.38358417	No	
+row_33	PARP6	poly(ADP-ribose) polymerase family member 6 [Source:HGNC Symbol;Acc:HGNC:26921]	28147	-0.2137254774570465	-0.43757465	Yes	
+row_34	CHMP2B	charged multivesicular body protein 2B [Source:HGNC Symbol;Acc:HGNC:24537]	28500	-0.22178195416927338	-0.42162925	Yes	
+row_35	ACE2	angiotensin I converting enzyme 2 [Source:HGNC Symbol;Acc:HGNC:13557]	28881	-0.22973193228244781	-0.40555757	Yes	
+row_36	GSK3B	glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]	29224	-0.23736698925495148	-0.38748607	Yes	
+row_37	PARP8	poly(ADP-ribose) polymerase family member 8 [Source:HGNC Symbol;Acc:HGNC:26124]	29303	-0.23893113434314728	-0.3615876	Yes	
+row_38	ST6GALNAC3	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:19343]	29439	-0.24179470539093018	-0.3370018	Yes	
+row_39	PIK3R4	phosphoinositide-3-kinase regulatory subunit 4 [Source:HGNC Symbol;Acc:HGNC:8982]	30125	-0.25532230734825134	-0.32674405	Yes	
+row_40	ZCRB1	zinc finger CCHC-type and RNA binding motif containing 1 [Source:HGNC Symbol;Acc:HGNC:29620]	30948	-0.2670098841190338	-0.31907505	Yes	
+row_41	CHMP4C	charged multivesicular body protein 4C [Source:HGNC Symbol;Acc:HGNC:30599]	31041	-0.26927289366722107	-0.2900063	Yes	
+row_42	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	31290	-0.2768629193305969	-0.2645592	Yes	
+row_43	CHMP6	charged multivesicular body protein 6 [Source:HGNC Symbol;Acc:HGNC:25675]	31725	-0.2904181182384491	-0.24289933	Yes	
+row_44	ST3GAL4	ST3 beta-galactoside alpha-2,3-sialyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:10864]	33109	-0.3523995578289032	-0.24140833	Yes	
+row_45	BECN1	beclin 1 [Source:HGNC Symbol;Acc:HGNC:1034]	33621	-0.3919442892074585	-0.21001333	Yes	
+row_46	RB1	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	33897	-0.42121443152427673	-0.16833697	Yes	
+row_47	ST6GALNAC2	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:10867]	34016	-0.4349561929702759	-0.120496176	Yes	
+row_48	ST6GAL1	ST6 beta-galactoside alpha-2,6-sialyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10860]	34382	-0.5183864235877991	-0.06997416	Yes	
+row_49	PARP16	poly(ADP-ribose) polymerase family member 16 [Source:HGNC Symbol;Acc:HGNC:26040]	34553	-0.645131528377533	0.0011291045	Yes	

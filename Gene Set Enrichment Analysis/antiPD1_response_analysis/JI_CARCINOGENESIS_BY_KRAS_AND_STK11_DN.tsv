@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	20	0.6741570234298706	0.11033383	Yes	
+row_1	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	23	0.6645212769508362	0.21960299	Yes	
+row_2	PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	61	0.599723219871521	0.3171993	Yes	
+row_3	WNT2	Wnt family member 2 [Source:HGNC Symbol;Acc:HGNC:12780]	76	0.5875509977340698	0.41345823	Yes	
+row_4	DCN	decorin [Source:HGNC Symbol;Acc:HGNC:2705]	330	0.48616746068000793	0.48612526	Yes	
+row_5	ITGBL1	integrin subunit beta like 1 [Source:HGNC Symbol;Acc:HGNC:6164]	479	0.45562881231307983	0.55680484	Yes	
+row_6	LOXL1	lysyl oxidase like 1 [Source:HGNC Symbol;Acc:HGNC:6665]	581	0.441832572221756	0.62657404	Yes	
+row_7	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	857	0.4058551490306854	0.6853918	Yes	
+row_8	FGFR1	fibroblast growth factor receptor 1 [Source:HGNC Symbol;Acc:HGNC:3688]	961	0.3971535265445709	0.7477525	Yes	
+row_9	VEGFC	vascular endothelial growth factor C [Source:HGNC Symbol;Acc:HGNC:12682]	2154	0.32037192583084106	0.7659853	Yes	
+row_10	THBS2	thrombospondin 2 [Source:HGNC Symbol;Acc:HGNC:11786]	2811	0.29664015769958496	0.7958158	Yes	
+row_11	TIMP1	TIMP metallopeptidase inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:11820]	6484	0.2014329731464386	0.7227547	No	
+row_12	LOXL3	lysyl oxidase like 3 [Source:HGNC Symbol;Acc:HGNC:13869]	10792	0.12095090746879578	0.6180874	No	
+row_13	C2	complement C2 [Source:HGNC Symbol;Acc:HGNC:1248]	13916	0.05756404623389244	0.5372351	No	
+row_14	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	17138	-0.003628701204434037	0.44467497	No	
+row_15	NEDD9	neural precursor cell expressed, developmentally down-regulated 9 [Source:HGNC Symbol;Acc:HGNC:7733]	26087	-0.17062832415103912	0.2139545	No	
+row_16	CXCL13	C-X-C motif chemokine ligand 13 [Source:HGNC Symbol;Acc:HGNC:10639]	27288	-0.1944834440946579	0.21124475	No	

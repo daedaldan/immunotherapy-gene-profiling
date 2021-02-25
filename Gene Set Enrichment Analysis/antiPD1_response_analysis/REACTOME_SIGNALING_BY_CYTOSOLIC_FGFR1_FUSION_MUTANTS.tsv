@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CNTRL	centriolin [Source:HGNC Symbol;Acc:HGNC:1858]	10636	0.12452559918165207	-0.26284027	No	
+row_1	TRIM24	tripartite motif containing 24 [Source:HGNC Symbol;Acc:HGNC:11812]	12723	0.08022251725196838	-0.29432395	No	
+row_2	BCR	BCR activator of RhoGEF and GTPase [Source:HGNC Symbol;Acc:HGNC:1014]	14291	0.049831490963697433	-0.32172576	No	
+row_3	FGFR1OP2	FGFR1 oncogene partner 2 [Source:HGNC Symbol;Acc:HGNC:23098]	14736	0.04112274572253227	-0.3197792	No	
+row_4	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	15012	0.03565264493227005	-0.3149118	No	
+row_5	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	16677	0.004793952219188213	-0.3613151	No	
+row_6	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	18818	-0.035873208194971085	-0.41030914	No	
+row_7	CEP43	centrosomal protein 43 [Source:HGNC Symbol;Acc:HGNC:17012]	19584	-0.05128846317529678	-0.41399103	No	
+row_8	LRRFIP1	LRR binding FLII interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:6702]	19772	-0.0550953708589077	-0.39958662	No	
+row_9	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	20562	-0.06981469690799713	-0.39730042	No	
+row_10	ZMYM2	zinc finger MYM-type containing 2 [Source:HGNC Symbol;Acc:HGNC:12989]	21895	-0.09692991524934769	-0.40096825	No	
+row_11	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	27324	-0.19515876471996307	-0.487779	Yes	
+row_12	CUX1	cut like homeobox 1 [Source:HGNC Symbol;Acc:HGNC:2557]	29024	-0.232988178730011	-0.4531333	Yes	
+row_13	GAB2	GRB2 associated binding protein 2 [Source:HGNC Symbol;Acc:HGNC:14458]	29855	-0.25057071447372437	-0.38703102	Yes	
+row_14	CPSF6	cleavage and polyadenylation specific factor 6 [Source:HGNC Symbol;Acc:HGNC:13871]	31551	-0.2845204770565033	-0.33373806	Yes	
+row_15	STAT5A	signal transducer and activator of transcription 5A [Source:HGNC Symbol;Acc:HGNC:11366]	32433	-0.31920966506004333	-0.24442744	Yes	
+row_16	STAT5B	signal transducer and activator of transcription 5B [Source:HGNC Symbol;Acc:HGNC:11367]	33104	-0.35202109813690186	-0.13721478	Yes	
+row_17	MYO18A	myosin XVIIIA [Source:HGNC Symbol;Acc:HGNC:31104]	34319	-0.5011597871780396	0.007895935	Yes	

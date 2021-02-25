@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	XRCC5	X-ray repair cross complementing 5 [Source:HGNC Symbol;Acc:HGNC:12833]	3659	0.2743302881717682	-0.01622465	No	
+row_1	PRKDC	protein kinase, DNA-activated, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9413]	5867	0.2172754555940628	-0.009090359	No	
+row_2	XRCC6	X-ray repair cross complementing 6 [Source:HGNC Symbol;Acc:HGNC:4055]	9881	0.13940773904323578	-0.079619154	No	
+row_3	APLF	aprataxin and PNKP like factor [Source:HGNC Symbol;Acc:HGNC:28724]	11311	0.109112948179245	-0.08531057	No	
+row_4	PNKP	polynucleotide kinase 3'-phosphatase [Source:HGNC Symbol;Acc:HGNC:9154]	14726	0.04140005633234978	-0.17052534	No	
+row_5	XRCC4	X-ray repair cross complementing 4 [Source:HGNC Symbol;Acc:HGNC:12831]	15291	0.03037492372095585	-0.17691621	No	
+row_6	CSNK2A1	casein kinase 2 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2457]	17654	-0.013471181504428387	-0.24082778	No	
+row_7	CSNK2B	casein kinase 2 beta [Source:HGNC Symbol;Acc:HGNC:2460]	18532	-0.03024989180266857	-0.25631174	No	
+row_8	DNTT	DNA nucleotidylexotransferase [Source:HGNC Symbol;Acc:HGNC:2983]	19031	-0.040119469165802	-0.25761124	No	
+row_9	APTX	aprataxin [Source:HGNC Symbol;Acc:HGNC:15984]	29265	-0.23810894787311554	-0.4757923	Yes	
+row_10	DCLRE1C	DNA cross-link repair 1C [Source:HGNC Symbol;Acc:HGNC:17642]	29282	-0.23843257129192352	-0.3983822	Yes	
+row_11	POLM	DNA polymerase mu [Source:HGNC Symbol;Acc:HGNC:9185]	31854	-0.29494157433509827	-0.3764091	Yes	
+row_12	POLL	DNA polymerase lambda [Source:HGNC Symbol;Acc:HGNC:9184]	32106	-0.30562880635261536	-0.28384894	Yes	
+row_13	NHEJ1	non-homologous end joining factor 1 [Source:HGNC Symbol;Acc:HGNC:25737]	32363	-0.3162807822227478	-0.18795441	Yes	
+row_14	CSNK2A2	casein kinase 2 alpha 2 [Source:HGNC Symbol;Acc:HGNC:2459]	33094	-0.3515762984752655	-0.09424079	Yes	
+row_15	LIG4	DNA ligase 4 [Source:HGNC Symbol;Acc:HGNC:6601]	33895	-0.4211086630821228	0.020157864	Yes	

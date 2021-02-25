@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SERPINI1	serpin family I member 1 [Source:HGNC Symbol;Acc:HGNC:8943]	13043	0.07387860864400864	-0.348368	No	
+row_1	DISP1	dispatched RND transporter family member 1 [Source:HGNC Symbol;Acc:HGNC:19711]	13504	0.06520553678274155	-0.33621022	No	
+row_2	C2orf88	chromosome 2 open reading frame 88 [Source:HGNC Symbol;Acc:HGNC:28191]	15082	0.034240588545799255	-0.36844832	No	
+row_3	RAB26	RAB26, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:14259]	16781	0.002976515330374241	-0.41639385	No	
+row_4	SLC31A2	solute carrier family 31 member 2 [Source:HGNC Symbol;Acc:HGNC:11017]	16881	0.0013370898086577654	-0.4187349	No	
+row_5	ACP2	acid phosphatase 2, lysosomal [Source:HGNC Symbol;Acc:HGNC:123]	17155	-0.00393573148176074	-0.4250935	No	
+row_6	CCPG1	cell cycle progression 1 [Source:HGNC Symbol;Acc:HGNC:24227]	20295	-0.06479223072528839	-0.4905764	No	
+row_7	TIFA	TRAF interacting protein with forkhead associated domain [Source:HGNC Symbol;Acc:HGNC:19075]	20771	-0.07403514534235	-0.47540465	No	
+row_8	ARRDC3	arrestin domain containing 3 [Source:HGNC Symbol;Acc:HGNC:29263]	21197	-0.08300857990980148	-0.45528293	No	
+row_9	FIGN	fidgetin, microtubule severing factor [Source:HGNC Symbol;Acc:HGNC:13285]	22534	-0.10965898633003235	-0.45110175	No	
+row_10	MINDY1	MINDY lysine 48 deubiquitinase 1 [Source:HGNC Symbol;Acc:HGNC:25648]	26167	-0.17264242470264435	-0.48872936	No	
+row_11	MPC1	mitochondrial pyruvate carrier 1 [Source:HGNC Symbol;Acc:HGNC:21606]	29830	-0.24990972876548767	-0.49705333	Yes	
+row_12	RAB3D	RAB3D, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9779]	29923	-0.2519332766532898	-0.40133932	Yes	
+row_13	FNDC3A	fibronectin type III domain containing 3A [Source:HGNC Symbol;Acc:HGNC:20296]	30167	-0.2559192478656769	-0.30843595	Yes	
+row_14	AQP3	aquaporin 3 (Gill blood group) [Source:HGNC Symbol;Acc:HGNC:636]	30308	-0.25747615098953247	-0.21194577	Yes	
+row_15	MAP2K5	mitogen-activated protein kinase kinase 5 [Source:HGNC Symbol;Acc:HGNC:6845]	34590	-0.860005259513855	5.787819E-5	Yes	

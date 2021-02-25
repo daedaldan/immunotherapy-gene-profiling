@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	20	0.6741570234298706	0.104398884	Yes	
+row_1	LRRC15	leucine rich repeat containing 15 [Source:HGNC Symbol;Acc:HGNC:20818]	213	0.5146326422691345	0.17898162	Yes	
+row_2	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	218	0.5125907063484192	0.25868478	Yes	
+row_3	PDGFRL	platelet derived growth factor receptor like [Source:HGNC Symbol;Acc:HGNC:8805]	269	0.500063419342041	0.33510658	Yes	
+row_4	FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	348	0.4803979992866516	0.40765616	Yes	
+row_5	FAP	fibroblast activation protein alpha [Source:HGNC Symbol;Acc:HGNC:3590]	803	0.4120039939880371	0.45867887	Yes	
+row_6	OLFML3	olfactomedin like 3 [Source:HGNC Symbol;Acc:HGNC:24956]	1508	0.3555451035499573	0.49367806	Yes	
+row_7	MRC2	mannose receptor C type 2 [Source:HGNC Symbol;Acc:HGNC:16875]	1568	0.35147392749786377	0.54670167	Yes	
+row_8	PLAUR	plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]	2260	0.3163524568080902	0.575974	Yes	
+row_9	KRT17P1	keratin 17 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:6428]	2290	0.31497353315353394	0.6241817	Yes	
+row_10	SPOCK1	SPARC (osteonectin), cwcv and kazal like domains proteoglycan 1 [Source:HGNC Symbol;Acc:HGNC:11251]	2627	0.3021950423717499	0.66151875	Yes	
+row_11	MANCR	mitotically associated long non coding RNA [Source:HGNC Symbol;Acc:HGNC:44678]	2716	0.299272358417511	0.7055748	Yes	
+row_12	ADAM19	ADAM metallopeptidase domain 19 [Source:HGNC Symbol;Acc:HGNC:197]	4633	0.24776440858840942	0.6887305	Yes	
+row_13	TGFBI	transforming growth factor beta induced [Source:HGNC Symbol;Acc:HGNC:11771]	4742	0.2444123774766922	0.72366536	Yes	
+row_14	COL5A1	collagen type V alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2209]	4882	0.241095170378685	0.7571869	Yes	
+row_15	MDFI	MyoD family inhibitor [Source:HGNC Symbol;Acc:HGNC:6967]	10864	0.11930637806653976	0.60274863	No	
+row_16	SCG5	secretogranin V [Source:HGNC Symbol;Acc:HGNC:10816]	11781	0.09929818660020828	0.59171325	No	
+row_17	LHB	luteinizing hormone subunit beta [Source:HGNC Symbol;Acc:HGNC:6584]	15671	0.02331463061273098	0.48284408	No	
+row_18	ZNF474	zinc finger protein 474 [Source:HGNC Symbol;Acc:HGNC:23245]	16856	0.0017439746297895908	0.44886532	No	
+row_19	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	17138	-0.003628701204434037	0.4413017	No	
+row_20	CGB3	chorionic gonadotropin subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:1886]	19294	-0.04536740109324455	0.38602707	No	
+row_21	SPOCD1	SPOC domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26338]	19498	-0.04941527545452118	0.38784954	No	
+row_22	SH3GL3	SH3 domain containing GRB2 like 3, endophilin A3 [Source:HGNC Symbol;Acc:HGNC:10832]	21387	-0.08686865866184235	0.34676102	No	
+row_23	PPP2R2C	protein phosphatase 2 regulatory subunit Bgamma [Source:HGNC Symbol;Acc:HGNC:9306]	28718	-0.2260504961013794	0.16992113	No	

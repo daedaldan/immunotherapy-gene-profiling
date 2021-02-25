@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EGFL6	EGF like domain multiple 6 [Source:HGNC Symbol;Acc:HGNC:3235]	66	0.5947214365005493	0.07410801	Yes	
+row_1	ADAM12	ADAM metallopeptidase domain 12 [Source:HGNC Symbol;Acc:HGNC:190]	99	0.5649881958961487	0.1453992	Yes	
+row_2	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	218	0.5125907063484192	0.20750478	Yes	
+row_3	CHN1	chimerin 1 [Source:HGNC Symbol;Acc:HGNC:1943]	311	0.4902602732181549	0.2675083	Yes	
+row_4	TNFAIP6	TNF alpha induced protein 6 [Source:HGNC Symbol;Acc:HGNC:11898]	421	0.4646656811237335	0.32374847	Yes	
+row_5	PLXDC1	plexin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:20945]	654	0.43048742413520813	0.37206134	Yes	
+row_6	PAMR1	peptidase domain containing associated with muscle regeneration 1 [Source:HGNC Symbol;Acc:HGNC:24554]	1173	0.3795875906944275	0.40559366	Yes	
+row_7	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	1471	0.35861116647720337	0.44283873	Yes	
+row_8	MXRA5	matrix remodeling associated 5 [Source:HGNC Symbol;Acc:HGNC:7539]	1485	0.3576490581035614	0.48817745	Yes	
+row_9	PMAIP1	phorbol-12-myristate-13-acetate-induced protein 1 [Source:HGNC Symbol;Acc:HGNC:9108]	1669	0.3450683355331421	0.5269897	Yes	
+row_10	STC1	stanniocalcin 1 [Source:HGNC Symbol;Acc:HGNC:11373]	2505	0.30650895833969116	0.5420097	Yes	
+row_11	CMTM8	CKLF like MARVEL transmembrane domain containing 8 [Source:HGNC Symbol;Acc:HGNC:19179]	3070	0.2894209921360016	0.562686	Yes	
+row_12	FJX1	four-jointed box kinase 1 [Source:HGNC Symbol;Acc:HGNC:17166]	3253	0.2845085561275482	0.5937864	Yes	
+row_13	POSTN	periostin [Source:HGNC Symbol;Acc:HGNC:16953]	4941	0.23966683447360992	0.5756127	Yes	
+row_14	SCIN	scinderin [Source:HGNC Symbol;Acc:HGNC:21695]	5061	0.23666122555732727	0.60242	Yes	
+row_15	COL5A3	collagen type V alpha 3 chain [Source:HGNC Symbol;Acc:HGNC:14864]	5187	0.23387691378593445	0.6286977	Yes	
+row_16	MUC1	mucin 1, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7508]	5250	0.23211294412612915	0.6565727	Yes	
+row_17	HSPA6	heat shock protein family A (Hsp70) member 6 [Source:HGNC Symbol;Acc:HGNC:5239]	5588	0.22416135668754578	0.67547506	Yes	
+row_18	TWIST1	twist family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:12428]	6904	0.19426682591438293	0.66226095	No	
+row_19	FZD10	frizzled class receptor 10 [Source:HGNC Symbol;Acc:HGNC:4039]	9099	0.1532570868730545	0.6183739	No	
+row_20	FOXF2	forkhead box F2 [Source:HGNC Symbol;Acc:HGNC:3810]	10118	0.13410305976867676	0.60606235	No	
+row_21	ADAP2	ArfGAP with dual PH domains 2 [Source:HGNC Symbol;Acc:HGNC:16487]	13226	0.07034801691770554	0.52516305	No	
+row_22	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	16635	0.005447124596685171	0.42725962	No	
+row_23	LCP2	lymphocyte cytosolic protein 2 [Source:HGNC Symbol;Acc:HGNC:6529]	16795	0.002825759584084153	0.42302066	No	
+row_24	MMP9	matrix metallopeptidase 9 [Source:HGNC Symbol;Acc:HGNC:7176]	18862	-0.036645349115133286	0.36793151	No	
+row_25	RPS11	ribosomal protein S11 [Source:HGNC Symbol;Acc:HGNC:10384]	21857	-0.09606209397315979	0.29358828	No	
+row_26	WDR77	WD repeat domain 77 [Source:HGNC Symbol;Acc:HGNC:29652]	22953	-0.11821675300598145	0.27701843	No	
+row_27	HOPX	HOP homeobox [Source:HGNC Symbol;Acc:HGNC:24961]	28127	-0.21327783167362213	0.1546153	No	
+row_28	TNFRSF21	TNF receptor superfamily member 21 [Source:HGNC Symbol;Acc:HGNC:13469]	30011	-0.2534816265106201	0.13253677	No	

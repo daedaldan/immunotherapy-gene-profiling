@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAP2K6	mitogen-activated protein kinase kinase 6 [Source:HGNC Symbol;Acc:HGNC:6846]	12724	0.08020114153623581	-0.34021044	No	
+row_1	VDR	vitamin D receptor [Source:HGNC Symbol;Acc:HGNC:12679]	12975	0.07514254003763199	-0.32135445	No	
+row_2	CHUK	component of inhibitor of nuclear factor kappa B kinase complex [Source:HGNC Symbol;Acc:HGNC:1974]	14594	0.04396367073059082	-0.35289365	No	
+row_3	NR3C1	nuclear receptor subfamily 3 group C member 1 [Source:HGNC Symbol;Acc:HGNC:7978]	16399	0.009493952617049217	-0.40178007	No	
+row_4	SMAD3	SMAD family member 3 [Source:HGNC Symbol;Acc:HGNC:6769]	16751	0.0035973212216049433	-0.4106842	No	
+row_5	PPP3R1	protein phosphatase 3 regulatory subunit B, alpha [Source:HGNC Symbol;Acc:HGNC:9317]	16938	2.55601538810879E-4	-0.4159757	No	
+row_6	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	17098	-0.002860928187146783	-0.41958168	No	
+row_7	SMAD4	SMAD family member 4 [Source:HGNC Symbol;Acc:HGNC:6770]	17868	-0.01745142601430416	-0.43576708	No	
+row_8	MED14	mediator complex subunit 14 [Source:HGNC Symbol;Acc:HGNC:2370]	17903	-0.01817050389945507	-0.43044224	No	
+row_9	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	18135	-0.022692790254950523	-0.4292458	No	
+row_10	PPP3CA	protein phosphatase 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9314]	20226	-0.06354319304227829	-0.46764058	No	
+row_11	RXRA	retinoid X receptor alpha [Source:HGNC Symbol;Acc:HGNC:10477]	20316	-0.06509663909673691	-0.44761518	No	
+row_12	IL6	interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	20992	-0.07889505475759506	-0.43974993	No	
+row_13	DUSP1	dual specificity phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3064]	25196	-0.15324829518795013	-0.5081221	No	
+row_14	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	27708	-0.20424096286296844	-0.5098482	Yes	
+row_15	IKBKG	inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [Source:HGNC Symbol;Acc:HGNC:5961]	27718	-0.20440027117729187	-0.43914613	Yes	
+row_16	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	28261	-0.2163344770669937	-0.3797184	Yes	
+row_17	IKBKB	inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	28449	-0.22056794166564941	-0.3085522	Yes	
+row_18	MAP2K3	mitogen-activated protein kinase kinase 3 [Source:HGNC Symbol;Acc:HGNC:6843]	29223	-0.2373642772436142	-0.2485054	Yes	
+row_19	MAP3K1	mitogen-activated protein kinase kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6848]	33166	-0.3564404547214508	-0.23878492	Yes	
+row_20	NFATC1	nuclear factor of activated T cells 1 [Source:HGNC Symbol;Acc:HGNC:7775]	33419	-0.37554991245269775	-0.115693286	Yes	
+row_21	RELA	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	33977	-0.43089234828948975	0.017789358	Yes	

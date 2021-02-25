@@ -1,0 +1,46 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MFAP2	microfibril associated protein 2 [Source:HGNC Symbol;Acc:HGNC:7033]	6	0.7267648577690125	0.05542475	Yes	
+row_1	FBLN2	fibulin 2 [Source:HGNC Symbol;Acc:HGNC:3601]	16	0.6856372356414795	0.10761636	Yes	
+row_2	ELN	elastin [Source:HGNC Symbol;Acc:HGNC:3327]	39	0.636797308921814	0.15569535	Yes	
+row_3	ITGA5	integrin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6141]	129	0.5454761385917664	0.19484884	Yes	
+row_4	FBLN1	fibulin 1 [Source:HGNC Symbol;Acc:HGNC:3600]	197	0.5202885270118713	0.23271222	Yes	
+row_5	MFAP4	microfibril associated protein 4 [Source:HGNC Symbol;Acc:HGNC:7035]	219	0.5116034746170044	0.27124268	Yes	
+row_6	FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	348	0.4803979992866516	0.30428874	Yes	
+row_7	ITGA8	integrin subunit alpha 8 [Source:HGNC Symbol;Acc:HGNC:6144]	398	0.47031551599502563	0.33885017	Yes	
+row_8	LTBP2	latent transforming growth factor beta binding protein 2 [Source:HGNC Symbol;Acc:HGNC:6715]	511	0.4510950446128845	0.37011763	Yes	
+row_9	LOXL1	lysyl oxidase like 1 [Source:HGNC Symbol;Acc:HGNC:6665]	581	0.441832572221756	0.40192115	Yes	
+row_10	LOXL2	lysyl oxidase like 2 [Source:HGNC Symbol;Acc:HGNC:6666]	584	0.4406093955039978	0.43557045	Yes	
+row_11	FBN2	fibrillin 2 [Source:HGNC Symbol;Acc:HGNC:3604]	655	0.43040016293525696	0.46647042	Yes	
+row_12	LTBP1	latent transforming growth factor beta binding protein 1 [Source:HGNC Symbol;Acc:HGNC:6714]	818	0.41043075919151306	0.49317977	Yes	
+row_13	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1300	0.37000638246536255	0.50756305	Yes	
+row_14	MFAP5	microfibril associated protein 5 [Source:HGNC Symbol;Acc:HGNC:29673]	1570	0.35096707940101624	0.5266262	Yes	
+row_15	EMILIN2	elastin microfibril interfacer 2 [Source:HGNC Symbol;Acc:HGNC:19881]	1576	0.3506058156490326	0.55330324	Yes	
+row_16	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	2181	0.31927981972694397	0.56024563	Yes	
+row_17	BMP2	bone morphogenetic protein 2 [Source:HGNC Symbol;Acc:HGNC:1069]	2277	0.3154359757900238	0.58162713	Yes	
+row_18	EFEMP2	EGF containing fibulin extracellular matrix protein 2 [Source:HGNC Symbol;Acc:HGNC:3219]	2414	0.3110686242580414	0.6014877	Yes	
+row_19	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	2577	0.303714394569397	0.6200331	Yes	
+row_20	EMILIN3	elastin microfibril interfacer 3 [Source:HGNC Symbol;Acc:HGNC:16123]	2938	0.292806476354599	0.63201284	Yes	
+row_21	EMILIN1	elastin microfibril interfacer 1 [Source:HGNC Symbol;Acc:HGNC:19880]	3159	0.2870345711708069	0.64760345	Yes	
+row_22	EFEMP1	EGF containing fibulin extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3218]	3190	0.2861664891242981	0.66862714	Yes	
+row_23	FBLN5	fibulin 5 [Source:HGNC Symbol;Acc:HGNC:3602]	3794	0.27065834403038025	0.6718789	Yes	
+row_24	GDF5	growth differentiation factor 5 [Source:HGNC Symbol;Acc:HGNC:4220]	4393	0.2545797824859619	0.6740453	Yes	
+row_25	LTBP4	latent transforming growth factor beta binding protein 4 [Source:HGNC Symbol;Acc:HGNC:6717]	6384	0.20384438335895538	0.63203865	No	
+row_26	LOX	lysyl oxidase [Source:HGNC Symbol;Acc:HGNC:6664]	9090	0.15350846946239471	0.56548536	No	
+row_27	BMP7	bone morphogenetic protein 7 [Source:HGNC Symbol;Acc:HGNC:1074]	9239	0.14995265007019043	0.572673	No	
+row_28	LTBP3	latent transforming growth factor beta binding protein 3 [Source:HGNC Symbol;Acc:HGNC:6716]	10099	0.13443492352962494	0.55809355	No	
+row_29	MFAP3	microfibril associated protein 3 [Source:HGNC Symbol;Acc:HGNC:7034]	10253	0.13079708814620972	0.56367105	No	
+row_30	LOXL3	lysyl oxidase like 3 [Source:HGNC Symbol;Acc:HGNC:13869]	10792	0.12095090746879578	0.5573514	No	
+row_31	ITGAV	integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	12201	0.09057336300611496	0.5235255	No	
+row_32	ITGB3	integrin subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:6156]	12616	0.0822431743144989	0.5178339	No	
+row_33	LOXL4	lysyl oxidase like 4 [Source:HGNC Symbol;Acc:HGNC:17171]	13537	0.06455326080322266	0.49614266	No	
+row_34	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	15316	0.02993704564869404	0.44696823	No	
+row_35	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	17138	-0.003628701204434037	0.39453655	No	
+row_36	TGFB2	transforming growth factor beta 2 [Source:HGNC Symbol;Acc:HGNC:11768]	18993	-0.03905654326081276	0.34385997	No	
+row_37	FBN3	fibrillin 3 [Source:HGNC Symbol;Acc:HGNC:18794]	22316	-0.10509658604860306	0.25574392	No	
+row_38	FURIN	furin, paired basic amino acid cleaving enzyme [Source:HGNC Symbol;Acc:HGNC:8568]	22820	-0.1155310645699501	0.25002274	No	
+row_39	ITGB6	integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	22869	-0.11681503057479858	0.25756985	No	
+row_40	MFAP1	microfibril associated protein 1 [Source:HGNC Symbol;Acc:HGNC:7032]	23831	-0.13120655715465546	0.23979096	No	
+row_41	ITGB8	integrin subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:6163]	24044	-0.13422463834285736	0.24392292	No	
+row_42	BMP10	bone morphogenetic protein 10 [Source:HGNC Symbol;Acc:HGNC:20869]	30524	-0.25999340415000916	0.076276556	No	
+row_43	VTN	vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	30821	-0.2640670835971832	0.08791023	No	
+row_44	ITGB5	integrin subunit beta 5 [Source:HGNC Symbol;Acc:HGNC:6160]	31311	-0.2772931158542633	0.09496927	No	
